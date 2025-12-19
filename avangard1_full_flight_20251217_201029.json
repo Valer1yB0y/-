@@ -10,4264 +10,4246 @@
   },
   "flight_data": [
     {
-      "mission_time": 2.194,
-      "altitude": 83.6,
-      "speed": 175.3,
+      "mission_time": 2.207,
+      "altitude": 87.2,
+      "speed": 10.0,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 2.271,
+      "altitude": 88.0,
+      "speed": 10.8,
       "pitch": 89.9
     },
     {
-      "mission_time": 2.251,
-      "altitude": 84.2,
-      "speed": 175.3,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 2.314,
-      "altitude": 85.1,
-      "speed": 175.4,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 2.394,
-      "altitude": 85.8,
-      "speed": 175.4,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 2.457,
-      "altitude": 86.8,
-      "speed": 175.5,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 2.536,
-      "altitude": 87.6,
-      "speed": 175.5,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 2.6,
+      "mission_time": 2.335,
       "altitude": 88.7,
-      "speed": 175.6,
+      "speed": 11.5,
       "pitch": 89.9
     },
     {
-      "mission_time": 2.662,
-      "altitude": 89.6,
-      "speed": 175.7,
+      "mission_time": 2.397,
+      "altitude": 89.4,
+      "speed": 12.1,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 2.46,
+      "altitude": 90.2,
+      "speed": 12.8,
       "pitch": 89.9
     },
     {
-      "mission_time": 2.74,
-      "altitude": 90.8,
-      "speed": 175.7,
+      "mission_time": 2.524,
+      "altitude": 91.0,
+      "speed": 13.4,
       "pitch": 89.9
     },
     {
-      "mission_time": 2.818,
+      "mission_time": 2.588,
       "altitude": 92.1,
-      "speed": 175.8,
+      "speed": 14.3,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 2.666,
+      "altitude": 93.3,
+      "speed": 15.1,
       "pitch": 89.9
     },
     {
-      "mission_time": 2.896,
-      "altitude": 93.5,
-      "speed": 175.9,
+      "mission_time": 2.742,
+      "altitude": 94.2,
+      "speed": 15.8,
       "pitch": 89.9
     },
     {
-      "mission_time": 2.974,
-      "altitude": 94.6,
-      "speed": 176.0,
+      "mission_time": 2.806,
+      "altitude": 95.5,
+      "speed": 16.7,
       "pitch": 89.9
     },
     {
-      "mission_time": 3.034,
-      "altitude": 95.7,
-      "speed": 176.1,
+      "mission_time": 2.884,
+      "altitude": 96.5,
+      "speed": 17.3,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 2.946,
+      "altitude": 98.0,
+      "speed": 18.2,
       "pitch": 89.9
     },
     {
-      "mission_time": 3.096,
-      "altitude": 97.3,
-      "speed": 176.2,
+      "mission_time": 3.025,
+      "altitude": 99.5,
+      "speed": 19.1,
       "pitch": 89.9
     },
     {
-      "mission_time": 3.173,
-      "altitude": 98.5,
-      "speed": 176.2,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 3.236,
-      "altitude": 99.7,
-      "speed": 176.3,
+      "mission_time": 3.103,
+      "altitude": 100.6,
+      "speed": 19.7,
       "pitch": 89.9
     },
     {
-      "mission_time": 3.299,
-      "altitude": 101.5,
-      "speed": 176.4,
+      "mission_time": 3.166,
+      "altitude": 102.3,
+      "speed": 20.6,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 3.244,
+      "altitude": 103.5,
+      "speed": 21.2,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 3.307,
+      "altitude": 105.3,
+      "speed": 22.1,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 3.385,
+      "altitude": 107.1,
+      "speed": 23.0,
       "pitch": 89.9
     },
     {
-      "mission_time": 3.362,
-      "altitude": 102.8,
-      "speed": 176.5,
+      "mission_time": 3.462,
+      "altitude": 108.5,
+      "speed": 23.6,
       "pitch": 89.9
     },
     {
-      "mission_time": 3.439,
-      "altitude": 104.7,
-      "speed": 176.6,
+      "mission_time": 3.524,
+      "altitude": 109.9,
+      "speed": 24.3,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 3.586,
+      "altitude": 111.9,
+      "speed": 25.2,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 3.664,
+      "altitude": 113.5,
+      "speed": 25.8,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 3.726,
+      "altitude": 115.1,
+      "speed": 26.5,
       "pitch": 89.9
     },
     {
-      "mission_time": 3.517,
-      "altitude": 106.6,
-      "speed": 176.7,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 3.596,
-      "altitude": 108.6,
-      "speed": 176.9,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 3.674,
-      "altitude": 110.1,
-      "speed": 177.0,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 3.735,
-      "altitude": 111.7,
-      "speed": 177.1,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 3.797,
-      "altitude": 113.8,
-      "speed": 177.2,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 3.876,
-      "altitude": 115.5,
-      "speed": 177.3,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 3.936,
+      "mission_time": 3.787,
       "altitude": 117.2,
-      "speed": 177.4,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 3.999,
-      "altitude": 119.6,
-      "speed": 177.6,
+      "speed": 27.4,
       "pitch": 89.9
     },
     {
-      "mission_time": 4.062,
-      "altitude": 121.4,
-      "speed": 177.7,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 4.139,
-      "altitude": 123.8,
-      "speed": 177.8,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 4.217,
-      "altitude": 126.4,
-      "speed": 178.0,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 4.296,
-      "altitude": 129.0,
-      "speed": 178.2,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 4.373,
-      "altitude": 131.0,
-      "speed": 178.3,
+      "mission_time": 3.865,
+      "altitude": 118.9,
+      "speed": 28.1,
       "pitch": 89.9
     },
     {
-      "mission_time": 4.434,
-      "altitude": 133.0,
-      "speed": 178.4,
-      "pitch": 89.8
+      "mission_time": 3.928,
+      "altitude": 121.2,
+      "speed": 28.9,
+      "pitch": 90.0
     },
     {
-      "mission_time": 4.495,
-      "altitude": 135.1,
-      "speed": 178.6,
-      "pitch": 89.8
+      "mission_time": 4.004,
+      "altitude": 123.5,
+      "speed": 29.8,
+      "pitch": 90.0
     },
     {
-      "mission_time": 4.558,
-      "altitude": 138.0,
-      "speed": 178.7,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 4.637,
-      "altitude": 140.1,
-      "speed": 178.9,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 4.7,
-      "altitude": 143.1,
-      "speed": 179.1,
+      "mission_time": 4.082,
+      "altitude": 125.4,
+      "speed": 30.5,
       "pitch": 89.9
     },
     {
-      "mission_time": 4.762,
-      "altitude": 145.4,
-      "speed": 179.2,
+      "mission_time": 4.145,
+      "altitude": 127.8,
+      "speed": 31.4,
       "pitch": 89.9
     },
     {
-      "mission_time": 4.839,
-      "altitude": 148.5,
-      "speed": 179.4,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 4.918,
-      "altitude": 151.6,
-      "speed": 179.6,
+      "mission_time": 4.222,
+      "altitude": 129.8,
+      "speed": 32.0,
       "pitch": 89.9
     },
     {
-      "mission_time": 4.997,
-      "altitude": 154.9,
-      "speed": 179.8,
+      "mission_time": 4.283,
+      "altitude": 131.7,
+      "speed": 32.7,
       "pitch": 89.9
     },
     {
-      "mission_time": 5.076,
-      "altitude": 157.4,
-      "speed": 180.0,
+      "mission_time": 4.345,
+      "altitude": 133.7,
+      "speed": 33.4,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 4.408,
+      "altitude": 136.4,
+      "speed": 34.3,
       "pitch": 89.9
     },
     {
-      "mission_time": 5.138,
-      "altitude": 160.7,
-      "speed": 180.2,
+      "mission_time": 4.486,
+      "altitude": 139.2,
+      "speed": 35.2,
       "pitch": 89.9
     },
     {
-      "mission_time": 5.216,
-      "altitude": 164.2,
-      "speed": 180.4,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 5.294,
-      "altitude": 166.8,
-      "speed": 180.6,
+      "mission_time": 4.564,
+      "altitude": 141.3,
+      "speed": 35.8,
       "pitch": 89.9
     },
     {
-      "mission_time": 5.356,
-      "altitude": 170.3,
-      "speed": 180.8,
+      "mission_time": 4.628,
+      "altitude": 144.3,
+      "speed": 36.7,
       "pitch": 89.9
     },
     {
-      "mission_time": 5.436,
-      "altitude": 173.1,
-      "speed": 181.0,
+      "mission_time": 4.706,
+      "altitude": 146.5,
+      "speed": 37.4,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 4.768,
+      "altitude": 149.5,
+      "speed": 38.3,
       "pitch": 89.9
     },
     {
-      "mission_time": 5.498,
-      "altitude": 176.7,
-      "speed": 181.2,
+      "mission_time": 4.846,
+      "altitude": 152.6,
+      "speed": 39.2,
       "pitch": 89.9
     },
     {
-      "mission_time": 5.577,
-      "altitude": 179.6,
-      "speed": 181.4,
+      "mission_time": 4.925,
+      "altitude": 155.8,
+      "speed": 40.1,
       "pitch": 89.9
     },
     {
-      "mission_time": 5.64,
-      "altitude": 183.4,
-      "speed": 181.6,
+      "mission_time": 5.003,
+      "altitude": 159.1,
+      "speed": 41.0,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 5.081,
+      "altitude": 161.6,
+      "speed": 41.7,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 5.143,
+      "altitude": 165.0,
+      "speed": 42.6,
       "pitch": 89.9
     },
     {
-      "mission_time": 5.704,
-      "altitude": 186.3,
-      "speed": 181.8,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 5.767,
-      "altitude": 189.2,
-      "speed": 182.0,
+      "mission_time": 5.221,
+      "altitude": 167.5,
+      "speed": 43.3,
       "pitch": 89.9
     },
     {
-      "mission_time": 5.844,
-      "altitude": 193.2,
-      "speed": 182.2,
+      "mission_time": 5.285,
+      "altitude": 170.2,
+      "speed": 43.9,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 5.349,
+      "altitude": 173.7,
+      "speed": 44.8,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 5.412,
+      "altitude": 176.4,
+      "speed": 45.5,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 5.489,
+      "altitude": 180.1,
+      "speed": 46.4,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 5.553,
+      "altitude": 182.9,
+      "speed": 47.1,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 5.615,
+      "altitude": 185.8,
+      "speed": 47.8,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 5.676,
+      "altitude": 188.7,
+      "speed": 48.5,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 5.752,
+      "altitude": 192.6,
+      "speed": 49.4,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 5.829,
+      "altitude": 196.6,
+      "speed": 50.3,
       "pitch": 89.9
     },
     {
       "mission_time": 5.906,
-      "altitude": 196.3,
+      "altitude": 200.7,
+      "speed": 51.2,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 5.985,
+      "altitude": 204.8,
+      "speed": 52.1,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 6.063,
+      "altitude": 208.0,
+      "speed": 52.8,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 6.124,
+      "altitude": 212.3,
+      "speed": 53.8,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 6.201,
+      "altitude": 215.5,
+      "speed": 54.4,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 6.264,
+      "altitude": 218.8,
+      "speed": 55.1,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 6.326,
+      "altitude": 223.3,
+      "speed": 56.1,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 6.403,
+      "altitude": 227.8,
+      "speed": 57.0,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 6.482,
+      "altitude": 231.3,
+      "speed": 57.7,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 6.544,
+      "altitude": 234.8,
+      "speed": 58.4,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 6.607,
+      "altitude": 239.5,
+      "speed": 59.3,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 6.685,
+      "altitude": 243.1,
+      "speed": 60.0,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 6.746,
+      "altitude": 247.9,
+      "speed": 60.9,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 6.825,
+      "altitude": 251.6,
+      "speed": 61.6,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 6.888,
+      "altitude": 256.6,
+      "speed": 62.5,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 6.965,
+      "altitude": 261.6,
+      "speed": 63.5,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 7.043,
+      "altitude": 265.5,
+      "speed": 64.2,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 7.104,
+      "altitude": 269.3,
+      "speed": 64.9,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 7.167,
+      "altitude": 274.6,
+      "speed": 65.8,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 7.245,
+      "altitude": 278.6,
+      "speed": 66.5,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 7.306,
+      "altitude": 283.9,
+      "speed": 67.4,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 7.384,
+      "altitude": 289.4,
+      "speed": 68.4,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 7.461,
+      "altitude": 293.5,
+      "speed": 69.1,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 7.523,
+      "altitude": 297.7,
+      "speed": 69.8,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 7.584,
+      "altitude": 303.3,
+      "speed": 70.7,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 7.662,
+      "altitude": 307.6,
+      "speed": 71.4,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 7.723,
+      "altitude": 311.9,
+      "speed": 72.1,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 7.786,
+      "altitude": 317.7,
+      "speed": 73.1,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 7.865,
+      "altitude": 323.6,
+      "speed": 74.0,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 7.942,
+      "altitude": 328.1,
+      "speed": 74.7,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 8.004,
+      "altitude": 334.1,
+      "speed": 75.6,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 8.08,
+      "altitude": 338.7,
+      "speed": 76.4,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 8.143,
+      "altitude": 344.8,
+      "speed": 77.3,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 8.221,
+      "altitude": 349.5,
+      "speed": 78.0,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 8.282,
+      "altitude": 354.2,
+      "speed": 78.7,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 8.344,
+      "altitude": 359.0,
+      "speed": 79.4,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 8.405,
+      "altitude": 365.4,
+      "speed": 80.4,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 8.481,
+      "altitude": 370.2,
+      "speed": 81.1,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 8.542,
+      "altitude": 375.1,
+      "speed": 81.8,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 8.604,
+      "altitude": 380.1,
+      "speed": 82.5,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 8.666,
+      "altitude": 385.0,
+      "speed": 83.2,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 8.729,
+      "altitude": 391.7,
+      "speed": 84.2,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 8.808,
+      "altitude": 398.5,
+      "speed": 85.1,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 8.887,
+      "altitude": 405.4,
+      "speed": 86.1,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 8.965,
+      "altitude": 412.3,
+      "speed": 87.1,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 9.043,
+      "altitude": 419.3,
+      "speed": 88.0,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 9.119,
+      "altitude": 424.7,
+      "speed": 88.7,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 9.181,
+      "altitude": 430.0,
+      "speed": 89.5,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 9.243,
+      "altitude": 437.2,
+      "speed": 90.4,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 9.321,
+      "altitude": 442.7,
+      "speed": 91.1,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 9.383,
+      "altitude": 448.2,
+      "speed": 91.9,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 9.444,
+      "altitude": 455.6,
+      "speed": 92.8,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 9.522,
+      "altitude": 461.2,
+      "speed": 93.5,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 9.584,
+      "altitude": 466.8,
+      "speed": 94.3,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 9.647,
+      "altitude": 474.4,
+      "speed": 95.2,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 9.725,
+      "altitude": 480.1,
+      "speed": 95.9,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 9.789,
+      "altitude": 487.9,
+      "speed": 96.9,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 9.867,
+      "altitude": 495.7,
+      "speed": 97.9,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 9.945,
+      "altitude": 501.6,
+      "speed": 98.6,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 10.007,
+      "altitude": 509.5,
+      "speed": 99.6,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 10.086,
+      "altitude": 515.5,
+      "speed": 100.3,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 10.147,
+      "altitude": 523.6,
+      "speed": 101.3,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 10.226,
+      "altitude": 531.7,
+      "speed": 102.2,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 10.304,
+      "altitude": 540.0,
+      "speed": 103.2,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 10.382,
+      "altitude": 546.2,
+      "speed": 103.9,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 10.444,
+      "altitude": 554.6,
+      "speed": 104.9,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 10.521,
+      "altitude": 560.9,
+      "speed": 105.6,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 10.583,
+      "altitude": 569.4,
+      "speed": 106.6,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 10.661,
+      "altitude": 575.8,
+      "speed": 107.3,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 10.724,
+      "altitude": 584.5,
+      "speed": 108.3,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 10.801,
+      "altitude": 593.2,
+      "speed": 109.3,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 10.879,
+      "altitude": 599.8,
+      "speed": 110.0,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 10.941,
+      "altitude": 606.4,
+      "speed": 110.8,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 11.005,
+      "altitude": 615.3,
+      "speed": 111.8,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 11.082,
+      "altitude": 622.1,
+      "speed": 112.5,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 11.144,
+      "altitude": 628.8,
+      "speed": 113.2,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 11.208,
+      "altitude": 637.9,
+      "speed": 114.2,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 11.271,
+      "altitude": 644.8,
+      "speed": 114.9,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 11.349,
+      "altitude": 654.1,
+      "speed": 115.9,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 11.412,
+      "altitude": 661.1,
+      "speed": 116.7,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 11.474,
+      "altitude": 668.1,
+      "speed": 117.4,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 11.537,
+      "altitude": 675.2,
+      "speed": 118.1,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 11.601,
+      "altitude": 682.3,
+      "speed": 118.9,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 11.663,
+      "altitude": 689.5,
+      "speed": 119.6,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 11.725,
+      "altitude": 699.1,
+      "speed": 120.6,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 11.803,
+      "altitude": 706.3,
+      "speed": 121.4,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 11.867,
+      "altitude": 716.1,
+      "speed": 122.3,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 11.947,
+      "altitude": 725.9,
+      "speed": 123.3,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 12.024,
+      "altitude": 733.4,
+      "speed": 124.1,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 12.087,
+      "altitude": 743.4,
+      "speed": 125.1,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 12.151,
+      "altitude": 750.9,
+      "speed": 125.8,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 12.228,
+      "altitude": 761.0,
+      "speed": 126.8,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 12.307,
+      "altitude": 771.2,
+      "speed": 127.8,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 12.383,
+      "altitude": 778.9,
+      "speed": 128.6,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 12.446,
+      "altitude": 789.2,
+      "speed": 129.6,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 12.522,
+      "altitude": 797.1,
+      "speed": 130.3,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 12.584,
+      "altitude": 804.9,
+      "speed": 131.1,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 12.647,
+      "altitude": 815.4,
+      "speed": 132.1,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 12.726,
+      "altitude": 826.1,
+      "speed": 133.1,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 12.804,
+      "altitude": 834.1,
+      "speed": 133.8,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 12.866,
+      "altitude": 844.8,
+      "speed": 134.8,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 12.942,
+      "altitude": 853.0,
+      "speed": 135.6,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 13.004,
+      "altitude": 863.9,
+      "speed": 136.6,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 13.081,
+      "altitude": 874.8,
+      "speed": 137.6,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 13.16,
+      "altitude": 883.1,
+      "speed": 138.3,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 13.224,
+      "altitude": 894.2,
+      "speed": 139.3,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 13.303,
+      "altitude": 902.6,
+      "speed": 140.1,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 13.365,
+      "altitude": 911.1,
+      "speed": 140.9,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 13.429,
+      "altitude": 922.4,
+      "speed": 141.9,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 13.507,
+      "altitude": 933.8,
+      "speed": 142.9,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 13.584,
+      "altitude": 945.3,
+      "speed": 143.9,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 13.663,
+      "altitude": 953.9,
+      "speed": 144.6,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 13.725,
+      "altitude": 962.7,
+      "speed": 145.4,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 13.787,
+      "altitude": 974.3,
+      "speed": 146.4,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 13.865,
+      "altitude": 986.1,
+      "speed": 147.4,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 13.945,
+      "altitude": 998.0,
+      "speed": 148.5,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 14.022,
+      "altitude": 1006.9,
+      "speed": 149.2,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 14.083,
+      "altitude": 1015.9,
+      "speed": 150.0,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 14.144,
+      "altitude": 1024.9,
+      "speed": 150.8,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 14.207,
+      "altitude": 1037.0,
+      "speed": 151.8,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 14.286,
+      "altitude": 1046.2,
+      "speed": 152.5,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 14.348,
+      "altitude": 1058.4,
+      "speed": 153.6,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 14.426,
+      "altitude": 1070.8,
+      "speed": 154.6,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 14.502,
+      "altitude": 1080.1,
+      "speed": 155.4,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 14.565,
+      "altitude": 1092.6,
+      "speed": 156.4,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 14.642,
+      "altitude": 1102.0,
+      "speed": 157.2,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 14.703,
+      "altitude": 1111.4,
+      "speed": 157.9,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 14.766,
+      "altitude": 1124.1,
+      "speed": 159.0,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 14.844,
+      "altitude": 1136.9,
+      "speed": 160.0,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 14.921,
+      "altitude": 1146.5,
+      "speed": 160.8,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 14.983,
+      "altitude": 1156.2,
+      "speed": 161.5,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 15.045,
+      "altitude": 1169.2,
+      "speed": 162.6,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 15.122,
+      "altitude": 1179.0,
+      "speed": 163.3,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 15.186,
+      "altitude": 1192.1,
+      "speed": 164.4,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 15.264,
+      "altitude": 1202.0,
+      "speed": 165.1,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 15.327,
+      "altitude": 1211.9,
+      "speed": 165.9,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 15.389,
+      "altitude": 1225.2,
+      "speed": 167.0,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 15.467,
+      "altitude": 1238.7,
+      "speed": 168.0,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 15.543,
+      "altitude": 1248.8,
+      "speed": 168.8,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 15.603,
+      "altitude": 1262.3,
+      "speed": 169.8,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 15.682,
+      "altitude": 1272.6,
+      "speed": 170.6,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 15.744,
+      "altitude": 1282.8,
+      "speed": 171.4,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 15.806,
+      "altitude": 1296.6,
+      "speed": 172.4,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 15.883,
+      "altitude": 1307.0,
+      "speed": 173.2,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 15.946,
+      "altitude": 1317.4,
+      "speed": 174.0,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 16.009,
+      "altitude": 1331.4,
+      "speed": 175.0,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 16.072,
+      "altitude": 1341.9,
+      "speed": 175.8,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 16.134,
+      "altitude": 1352.5,
+      "speed": 176.6,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 16.212,
+      "altitude": 1366.7,
+      "speed": 177.7,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 16.289,
+      "altitude": 1380.9,
+      "speed": 178.7,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 16.365,
+      "altitude": 1391.7,
+      "speed": 179.5,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 16.426,
+      "altitude": 1406.1,
+      "speed": 180.6,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 16.503,
+      "altitude": 1420.6,
+      "speed": 181.6,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 16.579,
+      "altitude": 1431.5,
       "speed": 182.4,
       "pitch": 89.9
     },
     {
-      "mission_time": 5.97,
-      "altitude": 199.4,
-      "speed": 182.6,
+      "mission_time": 16.641,
+      "altitude": 1442.5,
+      "speed": 183.2,
       "pitch": 89.9
     },
     {
-      "mission_time": 6.032,
-      "altitude": 202.5,
-      "speed": 182.8,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 6.096,
-      "altitude": 206.7,
-      "speed": 183.1,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 6.174,
-      "altitude": 210.0,
-      "speed": 183.3,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 6.236,
-      "altitude": 213.2,
-      "speed": 183.5,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 6.299,
-      "altitude": 216.5,
-      "speed": 183.7,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 6.361,
-      "altitude": 221.0,
-      "speed": 184.0,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 6.438,
-      "altitude": 225.6,
+      "mission_time": 16.705,
+      "altitude": 1457.2,
       "speed": 184.3,
       "pitch": 89.9
     },
     {
-      "mission_time": 6.518,
-      "altitude": 230.2,
-      "speed": 184.6,
+      "mission_time": 16.783,
+      "altitude": 1468.3,
+      "speed": 185.0,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 16.844,
+      "altitude": 1483.2,
+      "speed": 186.1,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 16.92,
+      "altitude": 1494.4,
+      "speed": 186.9,
       "pitch": 89.9
     },
     {
-      "mission_time": 6.594,
-      "altitude": 233.7,
-      "speed": 184.8,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 6.658,
-      "altitude": 238.5,
-      "speed": 185.1,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 6.738,
-      "altitude": 242.1,
-      "speed": 185.3,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 6.8,
-      "altitude": 247.0,
-      "speed": 185.6,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 6.878,
-      "altitude": 250.7,
-      "speed": 185.8,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 6.942,
-      "altitude": 255.7,
-      "speed": 186.2,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 7.02,
-      "altitude": 260.8,
-      "speed": 186.5,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 7.1,
-      "altitude": 265.9,
-      "speed": 186.8,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 7.178,
-      "altitude": 271.2,
-      "speed": 187.1,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 7.257,
-      "altitude": 275.2,
-      "speed": 187.4,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 7.318,
-      "altitude": 280.5,
+      "mission_time": 16.982,
+      "altitude": 1505.6,
       "speed": 187.7,
-      "pitch": 89.8
+      "pitch": 89.9
     },
     {
-      "mission_time": 7.397,
-      "altitude": 284.6,
-      "speed": 188.0,
-      "pitch": 89.8
+      "mission_time": 17.043,
+      "altitude": 1516.9,
+      "speed": 188.5,
+      "pitch": 90.0
     },
     {
-      "mission_time": 7.459,
-      "altitude": 290.1,
-      "speed": 188.3,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 7.536,
-      "altitude": 294.3,
-      "speed": 188.6,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 7.599,
-      "altitude": 299.9,
-      "speed": 188.9,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 7.676,
-      "altitude": 304.2,
-      "speed": 189.2,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 7.737,
-      "altitude": 309.9,
+      "mission_time": 17.106,
+      "altitude": 1532.1,
       "speed": 189.6,
-      "pitch": 89.8
+      "pitch": 90.0
     },
     {
-      "mission_time": 7.813,
-      "altitude": 315.8,
-      "speed": 189.9,
-      "pitch": 89.8
+      "mission_time": 17.182,
+      "altitude": 1543.5,
+      "speed": 190.3,
+      "pitch": 90.0
     },
     {
-      "mission_time": 7.891,
-      "altitude": 320.2,
-      "speed": 190.2,
-      "pitch": 89.8
+      "mission_time": 17.244,
+      "altitude": 1554.9,
+      "speed": 191.1,
+      "pitch": 90.0
     },
     {
-      "mission_time": 7.952,
-      "altitude": 324.7,
-      "speed": 190.5,
+      "mission_time": 17.306,
+      "altitude": 1570.3,
+      "speed": 192.2,
       "pitch": 89.9
     },
     {
-      "mission_time": 8.015,
-      "altitude": 329.2,
-      "speed": 190.8,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 8.077,
-      "altitude": 333.7,
-      "speed": 191.0,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 8.14,
-      "altitude": 339.9,
-      "speed": 191.4,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 8.218,
-      "altitude": 346.1,
-      "speed": 191.8,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 8.295,
-      "altitude": 350.8,
-      "speed": 192.1,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 8.359,
-      "altitude": 357.2,
-      "speed": 192.5,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 8.452,
-      "altitude": 363.6,
-      "speed": 192.9,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 8.529,
-      "altitude": 370.1,
+      "mission_time": 17.385,
+      "altitude": 1585.7,
       "speed": 193.3,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 17.461,
+      "altitude": 1597.3,
+      "speed": 194.1,
       "pitch": 89.9
     },
     {
-      "mission_time": 8.591,
-      "altitude": 375.0,
-      "speed": 193.6,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 8.654,
-      "altitude": 380.0,
-      "speed": 193.9,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 8.718,
-      "altitude": 386.7,
-      "speed": 194.3,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 8.812,
-      "altitude": 393.4,
-      "speed": 194.7,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 8.874,
-      "altitude": 398.5,
+      "mission_time": 17.524,
+      "altitude": 1612.9,
       "speed": 195.1,
-      "pitch": 89.9
+      "pitch": 90.0
     },
     {
-      "mission_time": 8.938,
-      "altitude": 403.7,
-      "speed": 195.4,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 9.016,
-      "altitude": 412.4,
+      "mission_time": 17.602,
+      "altitude": 1624.7,
       "speed": 195.9,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 17.664,
+      "altitude": 1636.5,
+      "speed": 196.8,
       "pitch": 89.9
     },
     {
-      "mission_time": 9.094,
-      "altitude": 417.7,
-      "speed": 196.2,
+      "mission_time": 17.728,
+      "altitude": 1652.3,
+      "speed": 197.8,
       "pitch": 89.9
     },
     {
-      "mission_time": 9.157,
-      "altitude": 424.8,
-      "speed": 196.7,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 9.236,
-      "altitude": 430.2,
-      "speed": 197.0,
+      "mission_time": 17.805,
+      "altitude": 1668.1,
+      "speed": 198.9,
       "pitch": 89.9
     },
     {
-      "mission_time": 9.3,
-      "altitude": 437.4,
-      "speed": 197.4,
+      "mission_time": 17.882,
+      "altitude": 1684.1,
+      "speed": 200.0,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 17.96,
+      "altitude": 1696.1,
+      "speed": 200.8,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 18.022,
+      "altitude": 1708.2,
+      "speed": 201.6,
       "pitch": 89.9
     },
     {
-      "mission_time": 9.377,
-      "altitude": 444.8,
-      "speed": 197.9,
+      "mission_time": 18.084,
+      "altitude": 1720.3,
+      "speed": 202.4,
       "pitch": 89.9
     },
     {
-      "mission_time": 9.454,
-      "altitude": 452.2,
-      "speed": 198.3,
+      "mission_time": 18.146,
+      "altitude": 1736.6,
+      "speed": 203.5,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 18.223,
+      "altitude": 1748.8,
+      "speed": 204.3,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 18.285,
+      "altitude": 1761.1,
+      "speed": 205.1,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 18.347,
+      "altitude": 1777.6,
+      "speed": 206.2,
       "pitch": 89.9
     },
     {
-      "mission_time": 9.53,
-      "altitude": 457.8,
-      "speed": 198.7,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 9.591,
-      "altitude": 463.4,
-      "speed": 199.0,
+      "mission_time": 18.425,
+      "altitude": 1794.1,
+      "speed": 207.2,
       "pitch": 89.9
     },
     {
-      "mission_time": 9.654,
-      "altitude": 469.1,
-      "speed": 199.4,
+      "mission_time": 18.505,
+      "altitude": 1810.8,
+      "speed": 208.3,
       "pitch": 89.9
     },
     {
-      "mission_time": 9.718,
-      "altitude": 474.8,
-      "speed": 199.7,
-      "pitch": 89.9
+      "mission_time": 18.584,
+      "altitude": 1823.3,
+      "speed": 209.1,
+      "pitch": 90.0
     },
     {
-      "mission_time": 9.781,
-      "altitude": 482.5,
-      "speed": 200.2,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 9.857,
-      "altitude": 488.4,
-      "speed": 200.5,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 9.919,
-      "altitude": 496.2,
-      "speed": 201.0,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 9.996,
-      "altitude": 504.1,
-      "speed": 201.5,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 10.073,
-      "altitude": 510.1,
-      "speed": 201.8,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 10.135,
-      "altitude": 518.2,
-      "speed": 202.3,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 10.212,
-      "altitude": 524.3,
-      "speed": 202.7,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 10.273,
-      "altitude": 530.4,
-      "speed": 203.1,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 10.337,
-      "altitude": 536.6,
-      "speed": 203.4,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 10.398,
-      "altitude": 544.9,
-      "speed": 203.9,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 10.477,
-      "altitude": 553.3,
-      "speed": 204.4,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 10.553,
-      "altitude": 559.6,
-      "speed": 204.8,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 10.616,
-      "altitude": 568.1,
-      "speed": 205.3,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 10.694,
-      "altitude": 574.6,
-      "speed": 205.7,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 10.757,
-      "altitude": 581.1,
-      "speed": 206.1,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 10.819,
-      "altitude": 589.8,
-      "speed": 206.6,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 10.896,
-      "altitude": 596.4,
-      "speed": 207.0,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 10.959,
-      "altitude": 605.2,
-      "speed": 207.5,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 11.038,
-      "altitude": 614.2,
-      "speed": 208.0,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 11.115,
-      "altitude": 620.9,
-      "speed": 208.4,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 11.176,
-      "altitude": 630.0,
-      "speed": 209.0,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 11.253,
-      "altitude": 636.9,
-      "speed": 209.4,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 11.315,
-      "altitude": 646.1,
+      "mission_time": 18.645,
+      "altitude": 1835.9,
       "speed": 209.9,
-      "pitch": 89.8
+      "pitch": 90.0
     },
     {
-      "mission_time": 11.393,
-      "altitude": 653.0,
-      "speed": 210.3,
+      "mission_time": 18.707,
+      "altitude": 1852.7,
+      "speed": 211.0,
       "pitch": 89.9
     },
     {
-      "mission_time": 11.457,
-      "altitude": 662.4,
-      "speed": 210.9,
+      "mission_time": 18.785,
+      "altitude": 1869.7,
+      "speed": 212.1,
       "pitch": 89.9
     },
     {
-      "mission_time": 11.534,
-      "altitude": 669.4,
-      "speed": 211.3,
+      "mission_time": 18.864,
+      "altitude": 1882.4,
+      "speed": 212.9,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 18.925,
+      "altitude": 1899.5,
+      "speed": 214.0,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 19.002,
+      "altitude": 1912.4,
+      "speed": 214.8,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 19.064,
+      "altitude": 1925.3,
+      "speed": 215.6,
       "pitch": 89.9
     },
     {
-      "mission_time": 11.595,
-      "altitude": 678.9,
-      "speed": 211.8,
+      "mission_time": 19.126,
+      "altitude": 1942.6,
+      "speed": 216.7,
       "pitch": 89.9
     },
     {
-      "mission_time": 11.672,
-      "altitude": 686.1,
-      "speed": 212.3,
-      "pitch": 89.8
+      "mission_time": 19.204,
+      "altitude": 1955.7,
+      "speed": 217.6,
+      "pitch": 90.0
     },
     {
-      "mission_time": 11.735,
-      "altitude": 693.3,
-      "speed": 212.7,
+      "mission_time": 19.267,
+      "altitude": 1968.8,
+      "speed": 218.4,
       "pitch": 89.9
     },
     {
-      "mission_time": 11.797,
-      "altitude": 703.0,
-      "speed": 213.2,
+      "mission_time": 19.329,
+      "altitude": 1986.3,
+      "speed": 219.5,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 19.406,
+      "altitude": 2003.9,
+      "speed": 220.6,
       "pitch": 89.9
     },
     {
-      "mission_time": 11.875,
-      "altitude": 710.3,
-      "speed": 213.7,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 11.936,
-      "altitude": 717.7,
-      "speed": 214.1,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 11.998,
-      "altitude": 727.5,
-      "speed": 214.7,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 12.075,
-      "altitude": 735.0,
-      "speed": 215.1,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 12.135,
-      "altitude": 742.5,
-      "speed": 215.5,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 12.197,
-      "altitude": 752.6,
-      "speed": 216.1,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 12.274,
-      "altitude": 760.2,
-      "speed": 216.6,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 12.337,
-      "altitude": 770.4,
-      "speed": 217.1,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 12.417,
-      "altitude": 780.7,
-      "speed": 217.7,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 12.495,
-      "altitude": 791.1,
-      "speed": 218.3,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 12.572,
-      "altitude": 799.0,
-      "speed": 218.8,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 12.633,
-      "altitude": 806.8,
-      "speed": 219.2,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 12.695,
-      "altitude": 817.4,
-      "speed": 219.8,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 12.774,
-      "altitude": 825.4,
-      "speed": 220.3,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 12.835,
-      "altitude": 833.4,
-      "speed": 220.7,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 12.896,
-      "altitude": 844.2,
+      "mission_time": 19.484,
+      "altitude": 2017.2,
       "speed": 221.4,
       "pitch": 89.9
     },
     {
-      "mission_time": 12.973,
-      "altitude": 852.4,
-      "speed": 221.8,
+      "mission_time": 19.545,
+      "altitude": 2035.0,
+      "speed": 222.5,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 19.622,
+      "altitude": 2048.3,
+      "speed": 223.3,
       "pitch": 89.9
     },
     {
-      "mission_time": 13.035,
-      "altitude": 860.6,
-      "speed": 222.3,
+      "mission_time": 19.683,
+      "altitude": 2061.8,
+      "speed": 224.1,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 19.745,
+      "altitude": 2075.3,
+      "speed": 225.0,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 19.807,
+      "altitude": 2093.3,
+      "speed": 226.1,
       "pitch": 89.9
     },
     {
-      "mission_time": 13.096,
-      "altitude": 871.5,
-      "speed": 222.9,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 13.174,
-      "altitude": 879.8,
-      "speed": 223.4,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 13.237,
-      "altitude": 891.0,
-      "speed": 224.0,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 13.316,
-      "altitude": 902.2,
-      "speed": 224.6,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 13.394,
-      "altitude": 910.6,
-      "speed": 225.1,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 13.457,
-      "altitude": 922.0,
-      "speed": 225.7,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 13.533,
-      "altitude": 930.5,
-      "speed": 226.2,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 13.596,
-      "altitude": 942.0,
+      "mission_time": 19.871,
+      "altitude": 2106.9,
       "speed": 226.9,
-      "pitch": 89.9
+      "pitch": 90.0
     },
     {
-      "mission_time": 13.673,
-      "altitude": 950.7,
-      "speed": 227.3,
-      "pitch": 89.9
+      "mission_time": 19.951,
+      "altitude": 2125.1,
+      "speed": 228.0,
+      "pitch": 90.0
     },
     {
-      "mission_time": 13.734,
-      "altitude": 959.4,
-      "speed": 227.8,
-      "pitch": 89.9
+      "mission_time": 20.014,
+      "altitude": 2138.8,
+      "speed": 228.8,
+      "pitch": 90.0
     },
     {
-      "mission_time": 13.796,
-      "altitude": 971.1,
-      "speed": 228.5,
-      "pitch": 89.8
+      "mission_time": 20.077,
+      "altitude": 2152.6,
+      "speed": 229.6,
+      "pitch": 90.0
     },
     {
-      "mission_time": 13.875,
-      "altitude": 979.9,
-      "speed": 229.0,
-      "pitch": 89.8
+      "mission_time": 20.141,
+      "altitude": 2166.4,
+      "speed": 230.5,
+      "pitch": 90.0
     },
     {
-      "mission_time": 13.936,
-      "altitude": 988.8,
-      "speed": 229.5,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 13.998,
-      "altitude": 1000.7,
-      "speed": 230.1,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 14.061,
-      "altitude": 1009.7,
-      "speed": 230.6,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 14.139,
-      "altitude": 1021.7,
+      "mission_time": 20.203,
+      "altitude": 2180.3,
       "speed": 231.3,
       "pitch": 89.9
     },
     {
-      "mission_time": 14.218,
-      "altitude": 1033.8,
-      "speed": 232.0,
-      "pitch": 89.8
+      "mission_time": 20.265,
+      "altitude": 2198.8,
+      "speed": 232.4,
+      "pitch": 90.0
     },
     {
-      "mission_time": 14.298,
-      "altitude": 1046.0,
-      "speed": 232.6,
+      "mission_time": 20.343,
+      "altitude": 2212.8,
+      "speed": 233.2,
       "pitch": 89.9
     },
     {
-      "mission_time": 14.361,
-      "altitude": 1055.2,
-      "speed": 233.1,
+      "mission_time": 20.404,
+      "altitude": 2226.8,
+      "speed": 234.1,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 20.466,
+      "altitude": 2245.6,
+      "speed": 235.2,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 20.544,
+      "altitude": 2264.5,
+      "speed": 236.3,
       "pitch": 89.9
     },
     {
-      "mission_time": 14.438,
-      "altitude": 1067.6,
-      "speed": 233.8,
+      "mission_time": 20.621,
+      "altitude": 2278.7,
+      "speed": 237.1,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 20.684,
+      "altitude": 2297.7,
+      "speed": 238.2,
       "pitch": 89.9
     },
     {
-      "mission_time": 14.515,
-      "altitude": 1080.0,
-      "speed": 234.5,
-      "pitch": 89.9
+      "mission_time": 20.762,
+      "altitude": 2312.1,
+      "speed": 239.0,
+      "pitch": 90.0
     },
     {
-      "mission_time": 14.591,
-      "altitude": 1089.4,
-      "speed": 235.0,
-      "pitch": 89.9
+      "mission_time": 20.825,
+      "altitude": 2326.4,
+      "speed": 239.9,
+      "pitch": 90.0
     },
     {
-      "mission_time": 14.655,
-      "altitude": 1102.0,
-      "speed": 235.7,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 14.732,
-      "altitude": 1111.4,
-      "speed": 236.2,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 14.793,
-      "altitude": 1121.0,
-      "speed": 236.7,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 14.855,
-      "altitude": 1133.7,
-      "speed": 237.4,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 14.933,
-      "altitude": 1143.4,
-      "speed": 238.0,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 14.996,
-      "altitude": 1156.3,
-      "speed": 238.7,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 15.073,
-      "altitude": 1166.1,
-      "speed": 239.2,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 15.134,
-      "altitude": 1175.8,
-      "speed": 239.7,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 15.196,
-      "altitude": 1189.0,
-      "speed": 240.4,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 15.273,
-      "altitude": 1198.9,
+      "mission_time": 20.887,
+      "altitude": 2345.7,
       "speed": 241.0,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 20.966,
+      "altitude": 2360.2,
+      "speed": 241.8,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 21.028,
+      "altitude": 2379.6,
+      "speed": 242.9,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 21.105,
+      "altitude": 2399.1,
+      "speed": 244.1,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 21.183,
+      "altitude": 2413.8,
+      "speed": 244.9,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 21.246,
+      "altitude": 2433.4,
+      "speed": 246.0,
       "pitch": 89.9
     },
     {
-      "mission_time": 15.336,
-      "altitude": 1208.8,
-      "speed": 241.5,
-      "pitch": 89.9
+      "mission_time": 21.322,
+      "altitude": 2453.1,
+      "speed": 247.1,
+      "pitch": 90.0
     },
     {
-      "mission_time": 15.397,
-      "altitude": 1222.2,
-      "speed": 242.2,
-      "pitch": 89.9
+      "mission_time": 21.399,
+      "altitude": 2468.0,
+      "speed": 248.0,
+      "pitch": 90.0
     },
     {
-      "mission_time": 15.475,
-      "altitude": 1232.2,
-      "speed": 242.7,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 15.537,
-      "altitude": 1245.7,
-      "speed": 243.5,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 15.614,
-      "altitude": 1255.9,
-      "speed": 244.0,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 15.678,
-      "altitude": 1266.1,
-      "speed": 244.6,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 15.742,
-      "altitude": 1279.8,
-      "speed": 245.3,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 15.804,
-      "altitude": 1290.1,
-      "speed": 245.8,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 15.867,
-      "altitude": 1300.5,
-      "speed": 246.4,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 15.931,
-      "altitude": 1310.9,
-      "speed": 246.9,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 15.991,
-      "altitude": 1321.4,
-      "speed": 247.5,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 16.054,
-      "altitude": 1335.4,
-      "speed": 248.2,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 16.133,
-      "altitude": 1346.0,
+      "mission_time": 21.46,
+      "altitude": 2482.9,
       "speed": 248.8,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 21.521,
+      "altitude": 2497.9,
+      "speed": 249.7,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 21.583,
+      "altitude": 2517.9,
+      "speed": 250.8,
       "pitch": 89.9
     },
     {
-      "mission_time": 16.195,
-      "altitude": 1356.6,
-      "speed": 249.4,
+      "mission_time": 21.66,
+      "altitude": 2533.0,
+      "speed": 251.6,
       "pitch": 89.9
     },
     {
-      "mission_time": 16.256,
-      "altitude": 1370.8,
-      "speed": 250.1,
+      "mission_time": 21.722,
+      "altitude": 2548.1,
+      "speed": 252.5,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 21.784,
+      "altitude": 2568.4,
+      "speed": 253.6,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 21.862,
+      "altitude": 2588.7,
+      "speed": 254.7,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 21.94,
+      "altitude": 2604.1,
+      "speed": 255.6,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 22.004,
+      "altitude": 2619.4,
+      "speed": 256.4,
       "pitch": 89.9
     },
     {
-      "mission_time": 16.331,
-      "altitude": 1381.6,
-      "speed": 250.7,
+      "mission_time": 22.066,
+      "altitude": 2634.8,
+      "speed": 257.3,
       "pitch": 89.9
     },
     {
-      "mission_time": 16.394,
-      "altitude": 1392.4,
-      "speed": 251.2,
+      "mission_time": 22.128,
+      "altitude": 2655.5,
+      "speed": 258.4,
       "pitch": 89.9
     },
     {
-      "mission_time": 16.454,
-      "altitude": 1406.8,
-      "speed": 252.0,
+      "mission_time": 22.205,
+      "altitude": 2671.0,
+      "speed": 259.2,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 22.266,
+      "altitude": 2691.8,
+      "speed": 260.4,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 22.343,
+      "altitude": 2707.5,
+      "speed": 261.2,
       "pitch": 89.9
     },
     {
-      "mission_time": 16.533,
-      "altitude": 1417.7,
-      "speed": 252.6,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 16.595,
-      "altitude": 1432.3,
-      "speed": 253.3,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 16.673,
-      "altitude": 1443.3,
-      "speed": 253.9,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 16.736,
-      "altitude": 1454.4,
-      "speed": 254.5,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 16.799,
-      "altitude": 1469.2,
-      "speed": 255.2,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 16.875,
-      "altitude": 1480.3,
-      "speed": 255.8,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 16.937,
-      "altitude": 1495.3,
-      "speed": 256.6,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 17.016,
-      "altitude": 1510.3,
-      "speed": 257.4,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 17.095,
-      "altitude": 1525.5,
-      "speed": 258.2,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 17.174,
-      "altitude": 1536.9,
-      "speed": 258.7,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 17.237,
-      "altitude": 1548.3,
-      "speed": 259.3,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 17.299,
-      "altitude": 1563.7,
-      "speed": 260.1,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 17.376,
-      "altitude": 1575.2,
-      "speed": 260.7,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 17.437,
-      "altitude": 1590.7,
-      "speed": 261.5,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 17.514,
-      "altitude": 1606.3,
+      "mission_time": 22.405,
+      "altitude": 2728.4,
       "speed": 262.3,
-      "pitch": 89.9
+      "pitch": 90.0
     },
     {
-      "mission_time": 17.591,
-      "altitude": 1618.0,
-      "speed": 262.9,
-      "pitch": 89.9
+      "mission_time": 22.482,
+      "altitude": 2749.5,
+      "speed": 263.5,
+      "pitch": 90.0
     },
     {
-      "mission_time": 17.653,
-      "altitude": 1633.8,
-      "speed": 263.7,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 17.732,
-      "altitude": 1645.6,
+      "mission_time": 22.561,
+      "altitude": 2765.3,
       "speed": 264.3,
-      "pitch": 89.9
+      "pitch": 90.0
     },
     {
-      "mission_time": 17.795,
-      "altitude": 1661.5,
-      "speed": 265.1,
-      "pitch": 89.8
+      "mission_time": 22.623,
+      "altitude": 2786.5,
+      "speed": 265.5,
+      "pitch": 90.0
     },
     {
-      "mission_time": 17.872,
-      "altitude": 1673.5,
-      "speed": 265.7,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 17.933,
-      "altitude": 1685.5,
+      "mission_time": 22.702,
+      "altitude": 2802.5,
       "speed": 266.3,
       "pitch": 89.9
     },
     {
-      "mission_time": 17.996,
-      "altitude": 1701.6,
-      "speed": 267.1,
+      "mission_time": 22.764,
+      "altitude": 2823.9,
+      "speed": 267.5,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 22.842,
+      "altitude": 2840.0,
+      "speed": 268.3,
       "pitch": 89.9
     },
     {
-      "mission_time": 18.075,
-      "altitude": 1713.7,
-      "speed": 267.7,
+      "mission_time": 22.904,
+      "altitude": 2861.5,
+      "speed": 269.5,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 22.981,
+      "altitude": 2877.7,
+      "speed": 270.3,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 23.042,
+      "altitude": 2899.4,
+      "speed": 271.5,
       "pitch": 89.9
     },
     {
-      "mission_time": 18.137,
-      "altitude": 1729.9,
-      "speed": 268.6,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 18.215,
-      "altitude": 1746.3,
-      "speed": 269.4,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 18.291,
-      "altitude": 1758.6,
-      "speed": 270.0,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 18.353,
-      "altitude": 1775.0,
-      "speed": 270.8,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 18.433,
-      "altitude": 1787.5,
-      "speed": 271.4,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 18.496,
-      "altitude": 1804.1,
+      "mission_time": 23.119,
+      "altitude": 2915.7,
       "speed": 272.3,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 23.181,
+      "altitude": 2932.1,
+      "speed": 273.2,
       "pitch": 89.9
     },
     {
-      "mission_time": 18.573,
-      "altitude": 1816.6,
-      "speed": 272.9,
-      "pitch": 89.9
+      "mission_time": 23.243,
+      "altitude": 2954.0,
+      "speed": 274.3,
+      "pitch": 90.0
     },
     {
-      "mission_time": 18.635,
-      "altitude": 1829.2,
-      "speed": 273.5,
-      "pitch": 89.9
+      "mission_time": 23.319,
+      "altitude": 2970.5,
+      "speed": 275.2,
+      "pitch": 90.0
     },
     {
-      "mission_time": 18.697,
-      "altitude": 1846.1,
-      "speed": 274.4,
-      "pitch": 89.9
+      "mission_time": 23.382,
+      "altitude": 2987.0,
+      "speed": 276.0,
+      "pitch": 90.0
     },
     {
-      "mission_time": 18.775,
-      "altitude": 1858.8,
-      "speed": 275.0,
-      "pitch": 89.9
+      "mission_time": 23.444,
+      "altitude": 3009.2,
+      "speed": 277.2,
+      "pitch": 90.0
     },
     {
-      "mission_time": 18.837,
-      "altitude": 1875.8,
-      "speed": 275.8,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 18.916,
-      "altitude": 1892.9,
-      "speed": 276.7,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 18.992,
-      "altitude": 1905.7,
-      "speed": 277.3,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 19.055,
-      "altitude": 1923.0,
+      "mission_time": 23.52,
+      "altitude": 3025.8,
       "speed": 278.1,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 23.583,
+      "altitude": 3042.6,
+      "speed": 278.9,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 23.645,
+      "altitude": 3064.9,
+      "speed": 280.1,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 23.722,
+      "altitude": 3087.4,
+      "speed": 281.2,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 23.799,
+      "altitude": 3104.3,
+      "speed": 282.1,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 23.862,
+      "altitude": 3121.3,
+      "speed": 283.0,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 23.924,
+      "altitude": 3138.3,
+      "speed": 283.8,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 23.987,
+      "altitude": 3161.1,
+      "speed": 285.0,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 24.064,
+      "altitude": 3183.9,
+      "speed": 286.1,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 24.142,
+      "altitude": 3206.9,
+      "speed": 287.3,
       "pitch": 89.9
     },
     {
-      "mission_time": 19.132,
-      "altitude": 1936.0,
-      "speed": 278.8,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 19.192,
-      "altitude": 1949.0,
-      "speed": 279.4,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 19.254,
-      "altitude": 1966.5,
-      "speed": 280.3,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 19.332,
-      "altitude": 1979.6,
-      "speed": 280.9,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 19.394,
-      "altitude": 1992.8,
-      "speed": 281.6,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 19.458,
-      "altitude": 2010.5,
-      "speed": 282.4,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 19.536,
-      "altitude": 2023.8,
-      "speed": 283.1,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 19.6,
-      "altitude": 2041.7,
-      "speed": 283.9,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 19.677,
-      "altitude": 2055.1,
-      "speed": 284.6,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 19.74,
-      "altitude": 2073.1,
-      "speed": 285.5,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 19.816,
-      "altitude": 2091.2,
-      "speed": 286.3,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 19.894,
-      "altitude": 2104.8,
-      "speed": 287.0,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 19.957,
-      "altitude": 2123.0,
-      "speed": 287.9,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 20.035,
-      "altitude": 2136.8,
+      "mission_time": 24.221,
+      "altitude": 3229.9,
       "speed": 288.5,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 24.297,
+      "altitude": 3247.3,
+      "speed": 289.3,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 24.36,
+      "altitude": 3264.7,
+      "speed": 290.2,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 24.424,
+      "altitude": 3287.9,
+      "speed": 291.4,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 24.502,
+      "altitude": 3305.5,
+      "speed": 292.2,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 24.565,
+      "altitude": 3328.9,
+      "speed": 293.4,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 24.644,
+      "altitude": 3346.5,
+      "speed": 294.3,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 24.708,
+      "altitude": 3370.1,
+      "speed": 295.5,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 24.786,
+      "altitude": 3393.8,
+      "speed": 296.6,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 24.864,
+      "altitude": 3411.7,
+      "speed": 297.5,
       "pitch": 89.9
     },
     {
-      "mission_time": 20.096,
-      "altitude": 2155.1,
-      "speed": 289.4,
+      "mission_time": 24.926,
+      "altitude": 3435.5,
+      "speed": 298.7,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 25.003,
+      "altitude": 3459.5,
+      "speed": 299.8,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 25.08,
+      "altitude": 3477.5,
+      "speed": 300.7,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 25.142,
+      "altitude": 3501.6,
+      "speed": 301.9,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 25.22,
+      "altitude": 3519.8,
+      "speed": 302.7,
       "pitch": 89.9
     },
     {
-      "mission_time": 20.172,
-      "altitude": 2169.0,
-      "speed": 290.1,
-      "pitch": 89.9
+      "mission_time": 25.281,
+      "altitude": 3538.0,
+      "speed": 303.6,
+      "pitch": 90.0
     },
     {
-      "mission_time": 20.234,
-      "altitude": 2182.9,
-      "speed": 290.7,
-      "pitch": 89.9
+      "mission_time": 25.342,
+      "altitude": 3562.3,
+      "speed": 304.8,
+      "pitch": 90.0
     },
     {
-      "mission_time": 20.298,
-      "altitude": 2201.5,
-      "speed": 291.6,
-      "pitch": 89.8
+      "mission_time": 25.421,
+      "altitude": 3580.7,
+      "speed": 305.6,
+      "pitch": 90.0
     },
     {
-      "mission_time": 20.374,
-      "altitude": 2215.5,
-      "speed": 292.3,
-      "pitch": 89.8
+      "mission_time": 25.485,
+      "altitude": 3605.2,
+      "speed": 306.8,
+      "pitch": 90.0
     },
     {
-      "mission_time": 20.437,
-      "altitude": 2229.6,
-      "speed": 292.9,
-      "pitch": 89.9
+      "mission_time": 25.563,
+      "altitude": 3629.8,
+      "speed": 307.9,
+      "pitch": 90.0
     },
     {
-      "mission_time": 20.499,
-      "altitude": 2248.4,
-      "speed": 293.8,
-      "pitch": 89.9
+      "mission_time": 25.642,
+      "altitude": 3654.5,
+      "speed": 309.0,
+      "pitch": 90.0
     },
     {
-      "mission_time": 20.577,
-      "altitude": 2262.6,
-      "speed": 294.5,
-      "pitch": 89.9
+      "mission_time": 25.719,
+      "altitude": 3673.0,
+      "speed": 309.9,
+      "pitch": 90.0
     },
     {
-      "mission_time": 20.64,
-      "altitude": 2281.6,
-      "speed": 295.4,
-      "pitch": 89.8
+      "mission_time": 25.781,
+      "altitude": 3691.7,
+      "speed": 310.8,
+      "pitch": 90.0
     },
     {
-      "mission_time": 20.717,
-      "altitude": 2300.7,
-      "speed": 296.3,
-      "pitch": 89.8
+      "mission_time": 25.843,
+      "altitude": 3716.6,
+      "speed": 311.9,
+      "pitch": 90.0
     },
     {
-      "mission_time": 20.795,
-      "altitude": 2315.0,
-      "speed": 297.0,
-      "pitch": 89.9
+      "mission_time": 25.92,
+      "altitude": 3735.3,
+      "speed": 312.7,
+      "pitch": 90.0
     },
     {
-      "mission_time": 20.858,
-      "altitude": 2334.3,
-      "speed": 297.9,
-      "pitch": 89.9
+      "mission_time": 25.981,
+      "altitude": 3754.1,
+      "speed": 313.6,
+      "pitch": 90.0
     },
     {
-      "mission_time": 20.936,
-      "altitude": 2348.7,
-      "speed": 298.5,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 20.998,
-      "altitude": 2368.1,
-      "speed": 299.4,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 21.075,
-      "altitude": 2382.7,
-      "speed": 300.1,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 21.138,
-      "altitude": 2402.3,
-      "speed": 301.0,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 21.215,
-      "altitude": 2421.9,
-      "speed": 302.0,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 21.292,
-      "altitude": 2436.7,
-      "speed": 302.6,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 21.354,
-      "altitude": 2451.5,
-      "speed": 303.3,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 21.417,
-      "altitude": 2471.4,
-      "speed": 304.2,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 21.494,
-      "altitude": 2486.3,
-      "speed": 304.9,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 21.556,
-      "altitude": 2506.4,
-      "speed": 305.9,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 21.633,
-      "altitude": 2521.4,
-      "speed": 306.5,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 21.694,
-      "altitude": 2536.6,
-      "speed": 307.2,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 21.757,
-      "altitude": 2556.8,
-      "speed": 308.2,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 21.835,
-      "altitude": 2572.0,
-      "speed": 308.9,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 21.898,
-      "altitude": 2592.4,
-      "speed": 309.8,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 21.975,
-      "altitude": 2612.9,
-      "speed": 310.7,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 22.054,
-      "altitude": 2628.4,
-      "speed": 311.4,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 22.116,
-      "altitude": 2649.0,
-      "speed": 312.4,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 22.192,
-      "altitude": 2664.6,
-      "speed": 313.1,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 22.253,
-      "altitude": 2680.2,
-      "speed": 313.8,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 22.316,
-      "altitude": 2701.0,
+      "mission_time": 26.042,
+      "altitude": 3779.3,
       "speed": 314.7,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 26.119,
+      "altitude": 3798.2,
+      "speed": 315.5,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 26.181,
+      "altitude": 3817.2,
+      "speed": 316.4,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 26.243,
+      "altitude": 3842.5,
+      "speed": 317.5,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 26.319,
+      "altitude": 3861.6,
+      "speed": 318.3,
       "pitch": 89.9
     },
     {
-      "mission_time": 22.392,
-      "altitude": 2716.8,
-      "speed": 315.4,
-      "pitch": 89.9
+      "mission_time": 26.381,
+      "altitude": 3880.8,
+      "speed": 319.1,
+      "pitch": 90.0
     },
     {
-      "mission_time": 22.454,
-      "altitude": 2732.5,
-      "speed": 316.1,
-      "pitch": 89.9
+      "mission_time": 26.442,
+      "altitude": 3899.9,
+      "speed": 320.0,
+      "pitch": 90.0
     },
     {
-      "mission_time": 22.515,
-      "altitude": 2753.6,
-      "speed": 317.1,
-      "pitch": 89.9
+      "mission_time": 26.504,
+      "altitude": 3925.6,
+      "speed": 321.0,
+      "pitch": 90.0
     },
     {
-      "mission_time": 22.594,
-      "altitude": 2769.5,
-      "speed": 317.8,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 22.658,
-      "altitude": 2790.8,
-      "speed": 318.8,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 22.734,
-      "altitude": 2806.8,
-      "speed": 319.5,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 22.796,
-      "altitude": 2822.9,
-      "speed": 320.2,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 22.858,
-      "altitude": 2844.4,
-      "speed": 321.2,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 22.937,
-      "altitude": 2865.9,
+      "mission_time": 26.582,
+      "altitude": 3951.3,
       "speed": 322.1,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 26.658,
+      "altitude": 3970.7,
+      "speed": 323.0,
       "pitch": 89.9
     },
     {
-      "mission_time": 23.016,
-      "altitude": 2887.6,
-      "speed": 323.1,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 23.094,
-      "altitude": 2903.9,
+      "mission_time": 26.722,
+      "altitude": 3990.1,
       "speed": 323.8,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 26.784,
+      "altitude": 4016.1,
+      "speed": 324.9,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 26.861,
+      "altitude": 4035.6,
+      "speed": 325.7,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 26.924,
+      "altitude": 4061.7,
+      "speed": 326.7,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 27.002,
+      "altitude": 4081.3,
+      "speed": 327.5,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 27.064,
+      "altitude": 4101.0,
+      "speed": 328.3,
       "pitch": 89.9
     },
     {
-      "mission_time": 23.156,
-      "altitude": 2925.8,
-      "speed": 324.8,
-      "pitch": 89.8
+      "mission_time": 27.125,
+      "altitude": 4127.4,
+      "speed": 329.4,
+      "pitch": 90.0
     },
     {
-      "mission_time": 23.233,
-      "altitude": 2942.2,
-      "speed": 325.5,
-      "pitch": 89.8
+      "mission_time": 27.201,
+      "altitude": 4153.8,
+      "speed": 330.5,
+      "pitch": 90.0
     },
     {
-      "mission_time": 23.294,
-      "altitude": 2958.7,
-      "speed": 326.2,
-      "pitch": 89.9
+      "mission_time": 27.28,
+      "altitude": 4173.6,
+      "speed": 331.3,
+      "pitch": 90.0
     },
     {
-      "mission_time": 23.357,
-      "altitude": 2980.8,
-      "speed": 327.2,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 23.434,
-      "altitude": 2997.4,
-      "speed": 327.9,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 23.496,
-      "altitude": 3014.1,
-      "speed": 328.7,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 23.558,
-      "altitude": 3036.4,
-      "speed": 329.6,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 23.634,
-      "altitude": 3053.1,
-      "speed": 330.4,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 23.697,
-      "altitude": 3075.6,
-      "speed": 331.4,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 23.774,
-      "altitude": 3092.5,
+      "mission_time": 27.342,
+      "altitude": 4193.5,
       "speed": 332.1,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 27.404,
+      "altitude": 4220.2,
+      "speed": 333.1,
       "pitch": 89.9
     },
     {
-      "mission_time": 23.837,
-      "altitude": 3109.5,
-      "speed": 332.8,
+      "mission_time": 27.482,
+      "altitude": 4246.9,
+      "speed": 334.2,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 27.558,
+      "altitude": 4266.9,
+      "speed": 335.0,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 27.62,
+      "altitude": 4287.1,
+      "speed": 335.8,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 27.684,
+      "altitude": 4314.0,
+      "speed": 336.8,
       "pitch": 89.9
     },
     {
-      "mission_time": 23.899,
-      "altitude": 3132.2,
-      "speed": 333.8,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 23.977,
-      "altitude": 3154.9,
-      "speed": 334.8,
+      "mission_time": 27.762,
+      "altitude": 4334.2,
+      "speed": 337.6,
       "pitch": 89.9
     },
     {
-      "mission_time": 24.054,
-      "altitude": 3172.1,
-      "speed": 335.5,
-      "pitch": 89.9
+      "mission_time": 27.825,
+      "altitude": 4361.3,
+      "speed": 338.6,
+      "pitch": 90.0
     },
     {
-      "mission_time": 24.118,
-      "altitude": 3195.0,
-      "speed": 336.5,
-      "pitch": 89.9
+      "mission_time": 27.905,
+      "altitude": 4388.4,
+      "speed": 339.7,
+      "pitch": 90.0
     },
     {
-      "mission_time": 24.194,
-      "altitude": 3212.3,
-      "speed": 337.3,
-      "pitch": 89.9
+      "mission_time": 27.984,
+      "altitude": 4408.9,
+      "speed": 340.5,
+      "pitch": 90.0
     },
     {
-      "mission_time": 24.257,
-      "altitude": 3235.4,
-      "speed": 338.3,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 24.334,
-      "altitude": 3258.6,
-      "speed": 339.3,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 24.41,
-      "altitude": 3276.1,
-      "speed": 340.0,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 24.472,
-      "altitude": 3293.6,
-      "speed": 340.8,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 24.534,
-      "altitude": 3311.2,
+      "mission_time": 28.047,
+      "altitude": 4436.2,
       "speed": 341.5,
       "pitch": 89.9
     },
     {
-      "mission_time": 24.597,
-      "altitude": 3334.7,
+      "mission_time": 28.125,
+      "altitude": 4463.5,
       "speed": 342.5,
       "pitch": 89.9
     },
     {
-      "mission_time": 24.673,
-      "altitude": 3352.4,
+      "mission_time": 28.203,
+      "altitude": 4484.1,
       "speed": 343.3,
-      "pitch": 89.8
+      "pitch": 90.0
     },
     {
-      "mission_time": 24.735,
-      "altitude": 3370.1,
-      "speed": 344.1,
+      "mission_time": 28.267,
+      "altitude": 4511.6,
+      "speed": 344.4,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 28.345,
+      "altitude": 4539.2,
+      "speed": 345.4,
+      "pitch": 90.0
+    },
+    {
+      "mission_time": 28.423,
+      "altitude": 4560.0,
+      "speed": 346.2,
       "pitch": 89.9
     },
     {
-      "mission_time": 24.797,
-      "altitude": 3393.9,
-      "speed": 345.1,
+      "mission_time": 28.485,
+      "altitude": 4587.8,
+      "speed": 347.2,
       "pitch": 89.9
     },
     {
-      "mission_time": 24.874,
-      "altitude": 3411.8,
-      "speed": 345.8,
+      "mission_time": 28.562,
+      "altitude": 4608.6,
+      "speed": 348.0,
       "pitch": 89.9
     },
     {
-      "mission_time": 24.937,
-      "altitude": 3429.7,
-      "speed": 346.6,
+      "mission_time": 28.625,
+      "altitude": 4636.5,
+      "speed": 349.0,
       "pitch": 89.9
     },
     {
-      "mission_time": 24.998,
-      "altitude": 3453.7,
-      "speed": 347.6,
-      "pitch": 89.8
+      "mission_time": 28.702,
+      "altitude": 4664.5,
+      "speed": 350.1,
+      "pitch": 90.0
     },
     {
-      "mission_time": 25.077,
-      "altitude": 3471.7,
-      "speed": 348.3,
+      "mission_time": 28.779,
+      "altitude": 4685.5,
+      "speed": 350.9,
       "pitch": 89.9
     },
     {
-      "mission_time": 25.139,
-      "altitude": 3495.8,
-      "speed": 349.4,
+      "mission_time": 28.842,
+      "altitude": 4713.7,
+      "speed": 351.9,
       "pitch": 89.9
     },
     {
-      "mission_time": 25.217,
-      "altitude": 3520.1,
-      "speed": 350.4,
+      "mission_time": 28.919,
+      "altitude": 4734.8,
+      "speed": 352.7,
       "pitch": 89.9
     },
     {
-      "mission_time": 25.295,
-      "altitude": 3538.3,
-      "speed": 351.1,
+      "mission_time": 28.98,
+      "altitude": 4756.0,
+      "speed": 353.5,
       "pitch": 89.9
     },
     {
-      "mission_time": 25.357,
-      "altitude": 3562.7,
-      "speed": 352.1,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 25.436,
-      "altitude": 3581.1,
-      "speed": 352.9,
+      "mission_time": 29.043,
+      "altitude": 4777.2,
+      "speed": 354.2,
       "pitch": 89.9
     },
     {
-      "mission_time": 25.499,
-      "altitude": 3605.6,
-      "speed": 353.9,
+      "mission_time": 29.106,
+      "altitude": 4805.6,
+      "speed": 355.3,
       "pitch": 89.9
     },
     {
-      "mission_time": 25.578,
-      "altitude": 3624.1,
-      "speed": 354.6,
+      "mission_time": 29.185,
+      "altitude": 4834.1,
+      "speed": 356.3,
       "pitch": 89.9
     },
     {
-      "mission_time": 25.64,
-      "altitude": 3648.8,
-      "speed": 355.6,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 25.718,
-      "altitude": 3673.7,
-      "speed": 356.6,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 25.795,
-      "altitude": 3692.3,
+      "mission_time": 29.262,
+      "altitude": 4862.7,
       "speed": 357.4,
       "pitch": 89.9
     },
     {
-      "mission_time": 25.857,
-      "altitude": 3717.3,
-      "speed": 358.3,
+      "mission_time": 29.341,
+      "altitude": 4884.2,
+      "speed": 358.2,
       "pitch": 89.9
     },
     {
-      "mission_time": 25.934,
-      "altitude": 3736.1,
-      "speed": 359.1,
+      "mission_time": 29.403,
+      "altitude": 4905.7,
+      "speed": 358.9,
       "pitch": 89.9
     },
     {
-      "mission_time": 25.996,
-      "altitude": 3761.2,
-      "speed": 360.1,
+      "mission_time": 29.465,
+      "altitude": 4934.4,
+      "speed": 360.0,
       "pitch": 89.9
     },
     {
-      "mission_time": 26.075,
-      "altitude": 3786.4,
-      "speed": 361.1,
-      "pitch": 89.8
+      "mission_time": 29.543,
+      "altitude": 4956.1,
+      "speed": 360.8,
+      "pitch": 89.9
     },
     {
-      "mission_time": 26.152,
-      "altitude": 3805.4,
+      "mission_time": 29.605,
+      "altitude": 4985.0,
       "speed": 361.8,
       "pitch": 89.9
     },
     {
-      "mission_time": 26.213,
-      "altitude": 3830.8,
-      "speed": 362.8,
+      "mission_time": 29.683,
+      "altitude": 5006.7,
+      "speed": 362.6,
       "pitch": 89.9
     },
     {
-      "mission_time": 26.29,
-      "altitude": 3849.9,
-      "speed": 363.5,
+      "mission_time": 29.745,
+      "altitude": 5035.8,
+      "speed": 363.7,
       "pitch": 89.9
     },
     {
-      "mission_time": 26.354,
-      "altitude": 3869.0,
-      "speed": 364.2,
+      "mission_time": 29.823,
+      "altitude": 5065.0,
+      "speed": 364.7,
       "pitch": 89.9
     },
     {
-      "mission_time": 26.418,
-      "altitude": 3894.6,
-      "speed": 365.2,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 26.495,
-      "altitude": 3913.9,
-      "speed": 365.9,
+      "mission_time": 29.901,
+      "altitude": 5086.9,
+      "speed": 365.5,
       "pitch": 89.9
     },
     {
-      "mission_time": 26.557,
-      "altitude": 3939.6,
-      "speed": 366.9,
+      "mission_time": 29.963,
+      "altitude": 5116.2,
+      "speed": 366.6,
       "pitch": 89.9
     },
     {
-      "mission_time": 26.634,
-      "altitude": 3959.0,
-      "speed": 367.6,
+      "mission_time": 30.042,
+      "altitude": 5138.2,
+      "speed": 367.4,
       "pitch": 89.9
     },
     {
-      "mission_time": 26.697,
-      "altitude": 3984.9,
-      "speed": 368.6,
+      "mission_time": 30.105,
+      "altitude": 5167.6,
+      "speed": 368.4,
       "pitch": 89.9
     },
     {
-      "mission_time": 26.776,
-      "altitude": 4010.9,
-      "speed": 369.5,
-      "pitch": 89.8
+      "mission_time": 30.183,
+      "altitude": 5189.8,
+      "speed": 369.2,
+      "pitch": 89.9
     },
     {
-      "mission_time": 26.852,
-      "altitude": 4030.5,
+      "mission_time": 30.246,
+      "altitude": 5219.4,
       "speed": 370.3,
       "pitch": 89.9
     },
     {
-      "mission_time": 26.914,
-      "altitude": 4056.6,
-      "speed": 371.2,
+      "mission_time": 30.323,
+      "altitude": 5241.6,
+      "speed": 371.1,
       "pitch": 89.9
     },
     {
-      "mission_time": 26.994,
-      "altitude": 4076.3,
-      "speed": 371.9,
+      "mission_time": 30.385,
+      "altitude": 5271.4,
+      "speed": 372.1,
       "pitch": 89.9
     },
     {
-      "mission_time": 27.057,
-      "altitude": 4102.6,
-      "speed": 372.9,
+      "mission_time": 30.463,
+      "altitude": 5301.2,
+      "speed": 373.2,
       "pitch": 89.9
     },
     {
-      "mission_time": 27.134,
-      "altitude": 4122.4,
-      "speed": 373.6,
+      "mission_time": 30.54,
+      "altitude": 5323.6,
+      "speed": 374.0,
       "pitch": 89.9
     },
     {
-      "mission_time": 27.197,
-      "altitude": 4148.8,
-      "speed": 374.5,
+      "mission_time": 30.603,
+      "altitude": 5346.1,
+      "speed": 374.8,
       "pitch": 89.9
     },
     {
-      "mission_time": 27.274,
-      "altitude": 4168.7,
-      "speed": 375.2,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 27.335,
-      "altitude": 4188.6,
+      "mission_time": 30.666,
+      "altitude": 5376.2,
       "speed": 375.9,
       "pitch": 89.9
     },
     {
-      "mission_time": 27.398,
-      "altitude": 4215.3,
-      "speed": 376.9,
+      "mission_time": 30.742,
+      "altitude": 5398.7,
+      "speed": 376.7,
       "pitch": 89.9
     },
     {
-      "mission_time": 27.476,
-      "altitude": 4242.0,
+      "mission_time": 30.803,
+      "altitude": 5428.9,
       "speed": 377.8,
       "pitch": 89.9
     },
     {
-      "mission_time": 27.553,
-      "altitude": 4262.2,
-      "speed": 378.5,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 27.615,
-      "altitude": 4282.3,
-      "speed": 379.2,
+      "mission_time": 30.88,
+      "altitude": 5451.6,
+      "speed": 378.6,
       "pitch": 89.9
     },
     {
-      "mission_time": 27.678,
-      "altitude": 4309.3,
-      "speed": 380.2,
+      "mission_time": 30.941,
+      "altitude": 5474.4,
+      "speed": 379.4,
       "pitch": 89.9
     },
     {
-      "mission_time": 27.756,
-      "altitude": 4322.8,
-      "speed": 380.7,
+      "mission_time": 31.003,
+      "altitude": 5504.8,
+      "speed": 380.5,
       "pitch": 89.9
     },
     {
-      "mission_time": 27.819,
-      "altitude": 4356.7,
-      "speed": 381.8,
+      "mission_time": 31.079,
+      "altitude": 5527.7,
+      "speed": 381.3,
       "pitch": 89.9
     },
     {
-      "mission_time": 27.896,
-      "altitude": 4383.9,
-      "speed": 382.8,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 27.975,
-      "altitude": 4404.3,
-      "speed": 383.5,
+      "mission_time": 31.141,
+      "altitude": 5550.6,
+      "speed": 382.1,
       "pitch": 89.9
     },
     {
-      "mission_time": 28.038,
-      "altitude": 4431.6,
-      "speed": 384.4,
+      "mission_time": 31.202,
+      "altitude": 5573.5,
+      "speed": 382.9,
       "pitch": 89.9
     },
     {
-      "mission_time": 28.115,
-      "altitude": 4459.1,
-      "speed": 385.3,
+      "mission_time": 31.266,
+      "altitude": 5596.5,
+      "speed": 383.7,
       "pitch": 89.9
     },
     {
-      "mission_time": 28.192,
-      "altitude": 4479.7,
-      "speed": 386.0,
+      "mission_time": 31.329,
+      "altitude": 5627.3,
+      "speed": 384.8,
       "pitch": 89.9
     },
     {
-      "mission_time": 28.255,
-      "altitude": 4507.3,
-      "speed": 387.0,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 28.331,
-      "altitude": 4528.0,
-      "speed": 387.7,
+      "mission_time": 31.39,
+      "altitude": 5650.4,
+      "speed": 385.6,
       "pitch": 89.9
     },
     {
-      "mission_time": 28.394,
-      "altitude": 4548.8,
-      "speed": 388.4,
+      "mission_time": 31.452,
+      "altitude": 5673.6,
+      "speed": 386.5,
       "pitch": 89.9
     },
     {
-      "mission_time": 28.456,
-      "altitude": 4576.6,
-      "speed": 389.3,
+      "mission_time": 31.515,
+      "altitude": 5696.8,
+      "speed": 387.3,
       "pitch": 89.9
     },
     {
-      "mission_time": 28.536,
-      "altitude": 4597.5,
+      "mission_time": 31.579,
+      "altitude": 5720.1,
+      "speed": 388.1,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 31.64,
+      "altitude": 5743.4,
+      "speed": 388.9,
+      "pitch": 89.9
+    },
+    {
+      "mission_time": 31.717,
+      "altitude": 5774.6,
       "speed": 390.0,
       "pitch": 89.9
     },
     {
-      "mission_time": 28.597,
-      "altitude": 4625.4,
+      "mission_time": 31.781,
+      "altitude": 5798.0,
       "speed": 390.9,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 28.674,
-      "altitude": 4646.4,
-      "speed": 391.6,
       "pitch": 89.9
     },
     {
-      "mission_time": 28.737,
-      "altitude": 4674.5,
-      "speed": 392.6,
+      "mission_time": 31.844,
+      "altitude": 5829.3,
+      "speed": 392.0,
       "pitch": 89.9
     },
     {
-      "mission_time": 28.814,
-      "altitude": 4702.6,
-      "speed": 393.5,
+      "mission_time": 31.921,
+      "altitude": 5852.9,
+      "speed": 392.8,
       "pitch": 89.9
     },
     {
-      "mission_time": 28.894,
-      "altitude": 4723.8,
-      "speed": 394.2,
+      "mission_time": 31.985,
+      "altitude": 5884.4,
+      "speed": 393.9,
       "pitch": 89.9
     },
     {
-      "mission_time": 28.956,
-      "altitude": 4745.0,
-      "speed": 394.9,
-      "pitch": 89.8
+      "mission_time": 32.063,
+      "altitude": 5916.0,
+      "speed": 395.0,
+      "pitch": 89.9
     },
     {
-      "mission_time": 29.018,
-      "altitude": 4773.4,
+      "mission_time": 32.141,
+      "altitude": 5939.7,
       "speed": 395.9,
       "pitch": 89.9
     },
     {
-      "mission_time": 29.095,
-      "altitude": 4794.7,
-      "speed": 396.6,
+      "mission_time": 32.201,
+      "altitude": 5971.4,
+      "speed": 397.0,
       "pitch": 89.9
     },
     {
-      "mission_time": 29.155,
-      "altitude": 4816.1,
-      "speed": 397.3,
+      "mission_time": 32.28,
+      "altitude": 5995.3,
+      "speed": 397.8,
       "pitch": 89.9
     },
     {
-      "mission_time": 29.217,
-      "altitude": 4844.7,
-      "speed": 398.2,
+      "mission_time": 32.342,
+      "altitude": 6019.2,
+      "speed": 398.7,
       "pitch": 89.9
     },
     {
-      "mission_time": 29.295,
-      "altitude": 4866.1,
-      "speed": 398.9,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 29.359,
-      "altitude": 4894.9,
-      "speed": 399.9,
+      "mission_time": 32.404,
+      "altitude": 6051.1,
+      "speed": 399.8,
       "pitch": 89.9
     },
     {
-      "mission_time": 29.436,
-      "altitude": 4916.5,
+      "mission_time": 32.482,
+      "altitude": 6075.2,
       "speed": 400.6,
       "pitch": 89.9
     },
     {
-      "mission_time": 29.497,
-      "altitude": 4945.3,
-      "speed": 401.5,
+      "mission_time": 32.546,
+      "altitude": 6107.3,
+      "speed": 401.8,
       "pitch": 89.9
     },
     {
-      "mission_time": 29.575,
-      "altitude": 4967.0,
-      "speed": 402.2,
+      "mission_time": 32.624,
+      "altitude": 6139.5,
+      "speed": 402.9,
       "pitch": 89.9
     },
     {
-      "mission_time": 29.637,
-      "altitude": 4996.1,
-      "speed": 403.2,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 29.715,
-      "altitude": 5025.2,
+      "mission_time": 32.704,
+      "altitude": 6171.8,
       "speed": 404.1,
       "pitch": 89.9
     },
     {
-      "mission_time": 29.793,
-      "altitude": 5047.1,
+      "mission_time": 32.782,
+      "altitude": 6196.1,
       "speed": 404.9,
       "pitch": 89.9
     },
     {
-      "mission_time": 29.855,
-      "altitude": 5076.3,
-      "speed": 405.8,
+      "mission_time": 32.844,
+      "altitude": 6228.5,
+      "speed": 406.1,
       "pitch": 89.9
     },
     {
-      "mission_time": 29.933,
-      "altitude": 5098.3,
-      "speed": 406.5,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 29.994,
-      "altitude": 5120.3,
+      "mission_time": 32.923,
+      "altitude": 6261.1,
       "speed": 407.2,
       "pitch": 89.9
     },
     {
-      "mission_time": 30.056,
-      "altitude": 5149.8,
-      "speed": 408.2,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 30.132,
-      "altitude": 5172.0,
-      "speed": 408.9,
+      "mission_time": 33.001,
+      "altitude": 6285.5,
+      "speed": 408.1,
       "pitch": 89.9
     },
     {
-      "mission_time": 30.195,
-      "altitude": 5201.6,
-      "speed": 409.9,
+      "mission_time": 33.063,
+      "altitude": 6310.0,
+      "speed": 409.0,
       "pitch": 89.9
     },
     {
-      "mission_time": 30.274,
-      "altitude": 5223.8,
-      "speed": 410.6,
+      "mission_time": 33.124,
+      "altitude": 6342.8,
+      "speed": 410.1,
       "pitch": 89.9
     },
     {
-      "mission_time": 30.337,
-      "altitude": 5253.6,
-      "speed": 411.6,
+      "mission_time": 33.202,
+      "altitude": 6375.7,
+      "speed": 411.3,
       "pitch": 89.9
     },
     {
-      "mission_time": 30.415,
-      "altitude": 5283.4,
-      "speed": 412.5,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 30.493,
-      "altitude": 5305.9,
-      "speed": 413.3,
+      "mission_time": 33.281,
+      "altitude": 6400.4,
+      "speed": 412.2,
       "pitch": 89.9
     },
     {
-      "mission_time": 30.555,
-      "altitude": 5335.9,
-      "speed": 414.3,
+      "mission_time": 33.343,
+      "altitude": 6425.2,
+      "speed": 413.0,
       "pitch": 89.9
     },
     {
-      "mission_time": 30.634,
-      "altitude": 5366.0,
-      "speed": 415.2,
+      "mission_time": 33.405,
+      "altitude": 6458.3,
+      "speed": 414.2,
       "pitch": 89.9
     },
     {
-      "mission_time": 30.711,
-      "altitude": 5388.6,
-      "speed": 416.0,
+      "mission_time": 33.482,
+      "altitude": 6491.5,
+      "speed": 415.4,
       "pitch": 89.9
     },
     {
-      "mission_time": 30.773,
-      "altitude": 5411.3,
-      "speed": 416.7,
+      "mission_time": 33.561,
+      "altitude": 6516.4,
+      "speed": 416.3,
       "pitch": 89.9
     },
     {
-      "mission_time": 30.834,
-      "altitude": 5441.6,
-      "speed": 417.7,
+      "mission_time": 33.624,
+      "altitude": 6549.8,
+      "speed": 417.5,
       "pitch": 89.9
     },
     {
-      "mission_time": 30.913,
-      "altitude": 5471.9,
-      "speed": 418.7,
+      "mission_time": 33.701,
+      "altitude": 6574.9,
+      "speed": 418.3,
       "pitch": 89.9
     },
     {
-      "mission_time": 30.99,
-      "altitude": 5494.8,
-      "speed": 419.4,
+      "mission_time": 33.764,
+      "altitude": 6608.4,
+      "speed": 419.5,
       "pitch": 89.9
     },
     {
-      "mission_time": 31.052,
-      "altitude": 5517.7,
-      "speed": 420.1,
+      "mission_time": 33.843,
+      "altitude": 6642.1,
+      "speed": 420.7,
       "pitch": 89.9
     },
     {
-      "mission_time": 31.115,
-      "altitude": 5548.3,
-      "speed": 421.1,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 31.192,
-      "altitude": 5571.3,
-      "speed": 421.9,
+      "mission_time": 33.92,
+      "altitude": 6667.3,
+      "speed": 421.6,
       "pitch": 89.9
     },
     {
-      "mission_time": 31.254,
-      "altitude": 5594.4,
-      "speed": 422.6,
+      "mission_time": 33.982,
+      "altitude": 6692.7,
+      "speed": 422.5,
       "pitch": 89.9
     },
     {
-      "mission_time": 31.316,
-      "altitude": 5625.2,
-      "speed": 423.6,
+      "mission_time": 34.043,
+      "altitude": 6726.5,
+      "speed": 423.8,
       "pitch": 89.9
     },
     {
-      "mission_time": 31.393,
-      "altitude": 5648.4,
-      "speed": 424.4,
+      "mission_time": 34.123,
+      "altitude": 6752.0,
+      "speed": 424.7,
       "pitch": 89.9
     },
     {
-      "mission_time": 31.455,
-      "altitude": 5679.3,
-      "speed": 425.4,
+      "mission_time": 34.184,
+      "altitude": 6777.5,
+      "speed": 425.6,
       "pitch": 89.9
     },
     {
-      "mission_time": 31.532,
-      "altitude": 5702.6,
-      "speed": 426.1,
+      "mission_time": 34.245,
+      "altitude": 6811.6,
+      "speed": 426.8,
       "pitch": 89.9
     },
     {
-      "mission_time": 31.594,
-      "altitude": 5726.0,
-      "speed": 426.9,
+      "mission_time": 34.322,
+      "altitude": 6845.8,
+      "speed": 428.0,
       "pitch": 89.9
     },
     {
-      "mission_time": 31.657,
-      "altitude": 5757.2,
-      "speed": 427.9,
+      "mission_time": 34.4,
+      "altitude": 6871.6,
+      "speed": 428.9,
       "pitch": 89.9
     },
     {
-      "mission_time": 31.734,
-      "altitude": 5780.6,
-      "speed": 428.7,
+      "mission_time": 34.461,
+      "altitude": 6905.9,
+      "speed": 430.2,
       "pitch": 89.9
     },
     {
-      "mission_time": 31.796,
-      "altitude": 5812.0,
-      "speed": 429.7,
+      "mission_time": 34.54,
+      "altitude": 6931.8,
+      "speed": 431.1,
       "pitch": 89.9
     },
     {
-      "mission_time": 31.874,
-      "altitude": 5835.6,
-      "speed": 430.4,
+      "mission_time": 34.603,
+      "altitude": 6966.4,
+      "speed": 432.4,
       "pitch": 89.9
     },
     {
-      "mission_time": 31.935,
-      "altitude": 5867.1,
-      "speed": 431.5,
+      "mission_time": 34.68,
+      "altitude": 6992.3,
+      "speed": 433.3,
       "pitch": 89.9
     },
     {
-      "mission_time": 32.014,
-      "altitude": 5898.7,
-      "speed": 432.5,
+      "mission_time": 34.741,
+      "altitude": 7018.4,
+      "speed": 434.2,
       "pitch": 89.9
     },
     {
-      "mission_time": 32.092,
-      "altitude": 5922.4,
-      "speed": 433.2,
+      "mission_time": 34.804,
+      "altitude": 7044.5,
+      "speed": 435.2,
       "pitch": 89.9
     },
     {
-      "mission_time": 32.156,
-      "altitude": 5954.2,
-      "speed": 434.3,
+      "mission_time": 34.866,
+      "altitude": 7079.3,
+      "speed": 436.4,
       "pitch": 89.9
     },
     {
-      "mission_time": 32.232,
-      "altitude": 5978.1,
-      "speed": 435.1,
+      "mission_time": 34.943,
+      "altitude": 7105.6,
+      "speed": 437.4,
       "pitch": 89.9
     },
     {
-      "mission_time": 32.295,
-      "altitude": 6002.0,
-      "speed": 435.8,
+      "mission_time": 35.007,
+      "altitude": 7140.6,
+      "speed": 438.6,
       "pitch": 89.9
     },
     {
-      "mission_time": 32.356,
-      "altitude": 6034.0,
-      "speed": 436.9,
+      "mission_time": 35.084,
+      "altitude": 7175.8,
+      "speed": 439.9,
       "pitch": 89.9
     },
     {
-      "mission_time": 32.433,
-      "altitude": 6058.0,
-      "speed": 437.6,
+      "mission_time": 35.163,
+      "altitude": 7211.0,
+      "speed": 441.2,
       "pitch": 89.9
     },
     {
-      "mission_time": 32.494,
-      "altitude": 6082.1,
-      "speed": 438.4,
+      "mission_time": 35.241,
+      "altitude": 7237.6,
+      "speed": 442.2,
       "pitch": 89.9
     },
     {
-      "mission_time": 32.556,
-      "altitude": 6114.3,
-      "speed": 439.5,
+      "mission_time": 35.305,
+      "altitude": 7264.1,
+      "speed": 443.1,
       "pitch": 89.9
     },
     {
-      "mission_time": 32.635,
-      "altitude": 6138.5,
-      "speed": 440.3,
+      "mission_time": 35.367,
+      "altitude": 7299.7,
+      "speed": 444.4,
       "pitch": 89.9
     },
     {
-      "mission_time": 32.697,
-      "altitude": 6170.9,
-      "speed": 441.3,
+      "mission_time": 35.443,
+      "altitude": 7335.3,
+      "speed": 445.7,
       "pitch": 89.9
     },
     {
-      "mission_time": 32.774,
-      "altitude": 6195.3,
-      "speed": 442.1,
+      "mission_time": 35.52,
+      "altitude": 7362.1,
+      "speed": 446.7,
       "pitch": 89.9
     },
     {
-      "mission_time": 32.836,
-      "altitude": 6227.8,
-      "speed": 443.2,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 32.915,
-      "altitude": 6260.4,
-      "speed": 444.2,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 32.994,
-      "altitude": 6284.9,
-      "speed": 445.0,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 33.056,
-      "altitude": 6317.7,
-      "speed": 446.1,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 33.132,
-      "altitude": 6342.4,
-      "speed": 446.9,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 33.195,
-      "altitude": 6367.1,
+      "mission_time": 35.581,
+      "altitude": 7388.9,
       "speed": 447.7,
       "pitch": 89.9
     },
     {
-      "mission_time": 33.256,
-      "altitude": 6400.1,
-      "speed": 448.8,
+      "mission_time": 35.644,
+      "altitude": 7424.8,
+      "speed": 449.0,
       "pitch": 89.9
     },
     {
-      "mission_time": 33.334,
-      "altitude": 6424.9,
-      "speed": 449.6,
+      "mission_time": 35.722,
+      "altitude": 7451.8,
+      "speed": 450.0,
       "pitch": 89.9
     },
     {
-      "mission_time": 33.396,
-      "altitude": 6449.8,
-      "speed": 450.4,
+      "mission_time": 35.784,
+      "altitude": 7487.8,
+      "speed": 451.3,
       "pitch": 89.9
     },
     {
-      "mission_time": 33.46,
-      "altitude": 6483.1,
-      "speed": 451.5,
+      "mission_time": 35.861,
+      "altitude": 7514.9,
+      "speed": 452.3,
       "pitch": 89.9
     },
     {
-      "mission_time": 33.538,
-      "altitude": 6516.4,
-      "speed": 452.6,
+      "mission_time": 35.923,
+      "altitude": 7542.1,
+      "speed": 453.3,
       "pitch": 89.9
     },
     {
-      "mission_time": 33.618,
-      "altitude": 6549.9,
-      "speed": 453.7,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 33.695,
-      "altitude": 6575.0,
+      "mission_time": 35.985,
+      "altitude": 7578.5,
       "speed": 454.6,
       "pitch": 89.9
     },
     {
-      "mission_time": 33.757,
-      "altitude": 6608.7,
-      "speed": 455.7,
+      "mission_time": 36.063,
+      "altitude": 7614.9,
+      "speed": 455.9,
       "pitch": 89.9
     },
     {
-      "mission_time": 33.834,
-      "altitude": 6633.9,
-      "speed": 456.5,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 33.894,
-      "altitude": 6659.3,
+      "mission_time": 36.141,
+      "altitude": 7651.4,
       "speed": 457.3,
       "pitch": 89.9
     },
     {
-      "mission_time": 33.957,
-      "altitude": 6693.1,
-      "speed": 458.5,
+      "mission_time": 36.219,
+      "altitude": 7678.9,
+      "speed": 458.3,
       "pitch": 89.9
     },
     {
-      "mission_time": 34.034,
-      "altitude": 6727.1,
-      "speed": 459.6,
+      "mission_time": 36.281,
+      "altitude": 7706.5,
+      "speed": 459.3,
       "pitch": 89.9
     },
     {
-      "mission_time": 34.109,
-      "altitude": 6752.6,
-      "speed": 460.4,
+      "mission_time": 36.343,
+      "altitude": 7743.3,
+      "speed": 460.7,
       "pitch": 89.9
     },
     {
-      "mission_time": 34.171,
-      "altitude": 6778.2,
-      "speed": 461.3,
+      "mission_time": 36.421,
+      "altitude": 7771.0,
+      "speed": 461.7,
       "pitch": 89.9
     },
     {
-      "mission_time": 34.233,
-      "altitude": 6812.4,
-      "speed": 462.4,
+      "mission_time": 36.484,
+      "altitude": 7808.0,
+      "speed": 463.0,
       "pitch": 89.9
     },
     {
-      "mission_time": 34.312,
-      "altitude": 6838.1,
-      "speed": 463.3,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 34.376,
-      "altitude": 6863.9,
+      "mission_time": 36.561,
+      "altitude": 7835.8,
       "speed": 464.1,
       "pitch": 89.9
     },
     {
-      "mission_time": 34.44,
-      "altitude": 6898.3,
-      "speed": 465.3,
+      "mission_time": 36.623,
+      "altitude": 7873.0,
+      "speed": 465.5,
       "pitch": 89.9
     },
     {
-      "mission_time": 34.519,
-      "altitude": 6932.9,
-      "speed": 466.4,
+      "mission_time": 36.699,
+      "altitude": 7901.0,
+      "speed": 466.5,
       "pitch": 89.9
     },
     {
-      "mission_time": 34.596,
-      "altitude": 6958.9,
-      "speed": 467.3,
+      "mission_time": 36.76,
+      "altitude": 7929.0,
+      "speed": 467.5,
       "pitch": 89.9
     },
     {
-      "mission_time": 34.658,
-      "altitude": 6993.6,
-      "speed": 468.5,
+      "mission_time": 36.822,
+      "altitude": 7957.1,
+      "speed": 468.6,
       "pitch": 89.9
     },
     {
-      "mission_time": 34.735,
-      "altitude": 7019.7,
-      "speed": 469.3,
+      "mission_time": 36.883,
+      "altitude": 7985.2,
+      "speed": 469.6,
       "pitch": 89.9
     },
     {
-      "mission_time": 34.798,
-      "altitude": 7054.6,
-      "speed": 470.5,
+      "mission_time": 36.944,
+      "altitude": 8013.5,
+      "speed": 470.7,
       "pitch": 89.9
     },
     {
-      "mission_time": 34.876,
-      "altitude": 7080.8,
-      "speed": 471.4,
+      "mission_time": 37.006,
+      "altitude": 8051.2,
+      "speed": 472.1,
       "pitch": 89.9
     },
     {
-      "mission_time": 34.938,
-      "altitude": 7115.9,
-      "speed": 472.6,
+      "mission_time": 37.085,
+      "altitude": 8089.0,
+      "speed": 473.5,
       "pitch": 89.9
     },
     {
-      "mission_time": 35.016,
-      "altitude": 7151.1,
-      "speed": 473.8,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 35.094,
-      "altitude": 7177.5,
+      "mission_time": 37.161,
+      "altitude": 8117.5,
       "speed": 474.6,
       "pitch": 89.9
     },
     {
-      "mission_time": 35.156,
-      "altitude": 7212.9,
-      "speed": 475.8,
+      "mission_time": 37.223,
+      "altitude": 8155.5,
+      "speed": 476.0,
       "pitch": 89.9
     },
     {
-      "mission_time": 35.234,
-      "altitude": 7239.5,
-      "speed": 476.7,
+      "mission_time": 37.3,
+      "altitude": 8184.1,
+      "speed": 477.1,
       "pitch": 89.9
     },
     {
-      "mission_time": 35.295,
-      "altitude": 7266.1,
-      "speed": 477.6,
+      "mission_time": 37.362,
+      "altitude": 8212.8,
+      "speed": 478.1,
       "pitch": 89.9
     },
     {
-      "mission_time": 35.358,
-      "altitude": 7301.8,
-      "speed": 478.9,
+      "mission_time": 37.424,
+      "altitude": 8241.5,
+      "speed": 479.2,
       "pitch": 89.9
     },
     {
-      "mission_time": 35.437,
-      "altitude": 7337.5,
-      "speed": 480.1,
+      "mission_time": 37.487,
+      "altitude": 8280.0,
+      "speed": 480.7,
       "pitch": 89.9
     },
     {
-      "mission_time": 35.513,
-      "altitude": 7373.3,
-      "speed": 481.3,
+      "mission_time": 37.565,
+      "altitude": 8318.5,
+      "speed": 482.1,
       "pitch": 89.9
     },
     {
-      "mission_time": 35.59,
-      "altitude": 7400.2,
-      "speed": 482.2,
+      "mission_time": 37.641,
+      "altitude": 8347.5,
+      "speed": 483.2,
       "pitch": 89.9
     },
     {
-      "mission_time": 35.652,
-      "altitude": 7427.2,
-      "speed": 483.1,
+      "mission_time": 37.703,
+      "altitude": 8386.2,
+      "speed": 484.7,
       "pitch": 89.9
     },
     {
-      "mission_time": 35.714,
-      "altitude": 7454.3,
-      "speed": 484.0,
+      "mission_time": 37.782,
+      "altitude": 8425.0,
+      "speed": 486.1,
       "pitch": 89.9
     },
     {
-      "mission_time": 35.776,
-      "altitude": 7490.5,
-      "speed": 485.3,
+      "mission_time": 37.859,
+      "altitude": 8454.3,
+      "speed": 487.3,
       "pitch": 89.9
     },
     {
-      "mission_time": 35.853,
-      "altitude": 7517.7,
-      "speed": 486.2,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 35.917,
-      "altitude": 7554.0,
-      "speed": 487.5,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 35.993,
-      "altitude": 7581.3,
+      "mission_time": 37.923,
+      "altitude": 8483.5,
       "speed": 488.4,
       "pitch": 89.9
     },
     {
-      "mission_time": 36.055,
-      "altitude": 7617.9,
-      "speed": 489.7,
+      "mission_time": 37.987,
+      "altitude": 8522.7,
+      "speed": 489.9,
       "pitch": 89.9
     },
     {
-      "mission_time": 36.133,
-      "altitude": 7645.4,
-      "speed": 490.6,
+      "mission_time": 38.065,
+      "altitude": 8562.0,
+      "speed": 491.3,
       "pitch": 89.9
     },
     {
-      "mission_time": 36.195,
-      "altitude": 7682.1,
-      "speed": 491.9,
+      "mission_time": 38.143,
+      "altitude": 8591.5,
+      "speed": 492.5,
       "pitch": 89.9
     },
     {
-      "mission_time": 36.274,
-      "altitude": 7709.7,
-      "speed": 492.8,
+      "mission_time": 38.206,
+      "altitude": 8631.0,
+      "speed": 494.0,
       "pitch": 89.9
     },
     {
-      "mission_time": 36.337,
-      "altitude": 7737.4,
-      "speed": 493.8,
+      "mission_time": 38.281,
+      "altitude": 8670.6,
+      "speed": 495.5,
       "pitch": 89.9
     },
     {
-      "mission_time": 36.399,
-      "altitude": 7774.4,
-      "speed": 495.1,
+      "mission_time": 38.357,
+      "altitude": 8700.3,
+      "speed": 496.6,
       "pitch": 89.9
     },
     {
-      "mission_time": 36.477,
-      "altitude": 7811.5,
-      "speed": 496.3,
+      "mission_time": 38.42,
+      "altitude": 8730.2,
+      "speed": 497.8,
       "pitch": 89.9
     },
     {
-      "mission_time": 36.553,
-      "altitude": 7839.4,
-      "speed": 497.3,
+      "mission_time": 38.483,
+      "altitude": 8760.1,
+      "speed": 498.9,
       "pitch": 89.9
     },
     {
-      "mission_time": 36.615,
-      "altitude": 7876.7,
-      "speed": 498.6,
+      "mission_time": 38.547,
+      "altitude": 8800.1,
+      "speed": 500.5,
       "pitch": 89.9
     },
     {
-      "mission_time": 36.695,
-      "altitude": 7904.8,
-      "speed": 499.6,
+      "mission_time": 38.624,
+      "altitude": 8830.2,
+      "speed": 501.6,
       "pitch": 89.9
     },
     {
-      "mission_time": 36.757,
-      "altitude": 7942.3,
-      "speed": 500.9,
+      "mission_time": 38.687,
+      "altitude": 8870.4,
+      "speed": 503.2,
       "pitch": 89.9
     },
     {
-      "mission_time": 36.834,
-      "altitude": 7970.5,
-      "speed": 501.9,
+      "mission_time": 38.765,
+      "altitude": 8900.6,
+      "speed": 504.3,
       "pitch": 89.9
     },
     {
-      "mission_time": 36.895,
-      "altitude": 7998.8,
-      "speed": 502.9,
+      "mission_time": 38.826,
+      "altitude": 8941.1,
+      "speed": 505.9,
       "pitch": 89.9
     },
     {
-      "mission_time": 36.957,
-      "altitude": 8036.6,
-      "speed": 504.2,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 37.033,
-      "altitude": 8065.0,
-      "speed": 505.2,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 37.095,
-      "altitude": 8093.4,
-      "speed": 506.2,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 37.156,
-      "altitude": 8131.5,
+      "mission_time": 38.905,
+      "altitude": 8981.6,
       "speed": 507.5,
       "pitch": 89.9
     },
     {
-      "mission_time": 37.233,
-      "altitude": 8160.1,
-      "speed": 508.5,
+      "mission_time": 38.984,
+      "altitude": 9012.1,
+      "speed": 508.6,
       "pitch": 89.9
     },
     {
-      "mission_time": 37.295,
-      "altitude": 8198.4,
-      "speed": 509.9,
+      "mission_time": 39.047,
+      "altitude": 9052.9,
+      "speed": 510.2,
       "pitch": 89.9
     },
     {
-      "mission_time": 37.373,
-      "altitude": 8227.2,
-      "speed": 510.9,
+      "mission_time": 39.126,
+      "altitude": 9083.5,
+      "speed": 511.4,
       "pitch": 89.9
     },
     {
-      "mission_time": 37.436,
-      "altitude": 8265.7,
-      "speed": 512.3,
+      "mission_time": 39.187,
+      "altitude": 9124.5,
+      "speed": 513.0,
       "pitch": 89.9
     },
     {
-      "mission_time": 37.514,
-      "altitude": 8304.3,
-      "speed": 513.7,
+      "mission_time": 39.265,
+      "altitude": 9165.7,
+      "speed": 514.6,
       "pitch": 89.9
     },
     {
-      "mission_time": 37.593,
-      "altitude": 8333.3,
-      "speed": 514.7,
+      "mission_time": 39.344,
+      "altitude": 9196.6,
+      "speed": 515.8,
       "pitch": 89.9
     },
     {
-      "mission_time": 37.655,
-      "altitude": 8372.1,
-      "speed": 516.1,
+      "mission_time": 39.406,
+      "altitude": 9237.9,
+      "speed": 517.4,
       "pitch": 89.9
     },
     {
-      "mission_time": 37.733,
-      "altitude": 8401.2,
-      "speed": 517.1,
+      "mission_time": 39.484,
+      "altitude": 9269.0,
+      "speed": 518.6,
       "pitch": 89.9
     },
     {
-      "mission_time": 37.795,
-      "altitude": 8440.3,
-      "speed": 518.5,
+      "mission_time": 39.545,
+      "altitude": 9310.6,
+      "speed": 520.2,
       "pitch": 89.9
     },
     {
-      "mission_time": 37.873,
-      "altitude": 8479.4,
-      "speed": 519.9,
+      "mission_time": 39.623,
+      "altitude": 9352.3,
+      "speed": 521.9,
       "pitch": 89.9
     },
     {
-      "mission_time": 37.951,
-      "altitude": 8508.8,
-      "speed": 521.0,
+      "mission_time": 39.7,
+      "altitude": 9383.7,
+      "speed": 523.1,
       "pitch": 89.9
     },
     {
-      "mission_time": 38.014,
-      "altitude": 8548.1,
-      "speed": 522.4,
+      "mission_time": 39.763,
+      "altitude": 9425.6,
+      "speed": 524.7,
       "pitch": 89.9
     },
     {
-      "mission_time": 38.091,
-      "altitude": 8577.7,
-      "speed": 523.4,
+      "mission_time": 39.84,
+      "altitude": 9457.1,
+      "speed": 526.0,
       "pitch": 89.9
     },
     {
-      "mission_time": 38.153,
-      "altitude": 8607.3,
-      "speed": 524.5,
+      "mission_time": 39.902,
+      "altitude": 9499.3,
+      "speed": 527.6,
       "pitch": 89.9
     },
     {
-      "mission_time": 38.214,
-      "altitude": 8647.0,
-      "speed": 525.9,
+      "mission_time": 39.981,
+      "altitude": 9541.6,
+      "speed": 529.3,
       "pitch": 89.9
     },
     {
-      "mission_time": 38.292,
-      "altitude": 8676.8,
-      "speed": 527.0,
+      "mission_time": 40.059,
+      "altitude": 9573.4,
+      "speed": 530.5,
       "pitch": 89.9
     },
     {
-      "mission_time": 38.355,
-      "altitude": 8716.6,
-      "speed": 528.4,
+      "mission_time": 40.123,
+      "altitude": 9605.3,
+      "speed": 531.8,
       "pitch": 89.9
     },
     {
-      "mission_time": 38.433,
-      "altitude": 8746.6,
-      "speed": 529.5,
+      "mission_time": 40.185,
+      "altitude": 9647.9,
+      "speed": 533.5,
       "pitch": 89.9
     },
     {
-      "mission_time": 38.496,
-      "altitude": 8786.7,
-      "speed": 531.0,
+      "mission_time": 40.264,
+      "altitude": 9680.0,
+      "speed": 534.7,
       "pitch": 89.9
     },
     {
-      "mission_time": 38.574,
-      "altitude": 8826.8,
-      "speed": 532.5,
+      "mission_time": 40.327,
+      "altitude": 9722.9,
+      "speed": 536.4,
       "pitch": 89.9
     },
     {
-      "mission_time": 38.651,
-      "altitude": 8857.1,
-      "speed": 533.6,
+      "mission_time": 40.405,
+      "altitude": 9755.1,
+      "speed": 537.7,
       "pitch": 89.9
     },
     {
-      "mission_time": 38.713,
-      "altitude": 8897.5,
-      "speed": 535.0,
+      "mission_time": 40.466,
+      "altitude": 9798.2,
+      "speed": 539.4,
       "pitch": 89.9
     },
     {
-      "mission_time": 38.792,
-      "altitude": 8927.8,
-      "speed": 536.1,
+      "mission_time": 40.544,
+      "altitude": 9841.4,
+      "speed": 541.1,
       "pitch": 89.9
     },
     {
-      "mission_time": 38.854,
-      "altitude": 8958.3,
-      "speed": 537.3,
+      "mission_time": 40.622,
+      "altitude": 9884.8,
+      "speed": 542.8,
       "pitch": 89.9
     },
     {
-      "mission_time": 38.915,
-      "altitude": 8999.0,
-      "speed": 538.7,
+      "mission_time": 40.699,
+      "altitude": 9917.4,
+      "speed": 544.1,
       "pitch": 89.9
     },
     {
-      "mission_time": 38.992,
-      "altitude": 9029.6,
-      "speed": 539.9,
+      "mission_time": 40.76,
+      "altitude": 9950.1,
+      "speed": 545.4,
       "pitch": 89.9
     },
     {
-      "mission_time": 39.053,
-      "altitude": 9060.3,
-      "speed": 541.0,
+      "mission_time": 40.821,
+      "altitude": 9993.9,
+      "speed": 547.1,
       "pitch": 89.9
     },
     {
-      "mission_time": 39.115,
-      "altitude": 9101.4,
-      "speed": 542.5,
+      "mission_time": 40.9,
+      "altitude": 10026.7,
+      "speed": 548.4,
       "pitch": 89.9
     },
     {
-      "mission_time": 39.192,
-      "altitude": 9132.2,
-      "speed": 543.6,
+      "mission_time": 40.961,
+      "altitude": 10059.7,
+      "speed": 549.7,
       "pitch": 89.9
     },
     {
-      "mission_time": 39.255,
-      "altitude": 9163.2,
-      "speed": 544.8,
+      "mission_time": 41.022,
+      "altitude": 10092.7,
+      "speed": 551.0,
       "pitch": 89.9
     },
     {
-      "mission_time": 39.316,
-      "altitude": 9204.5,
-      "speed": 546.3,
+      "mission_time": 41.085,
+      "altitude": 10125.9,
+      "speed": 552.4,
       "pitch": 89.9
     },
     {
-      "mission_time": 39.392,
-      "altitude": 9235.6,
-      "speed": 547.5,
+      "mission_time": 41.148,
+      "altitude": 10170.1,
+      "speed": 554.1,
       "pitch": 89.9
     },
     {
-      "mission_time": 39.454,
-      "altitude": 9266.8,
-      "speed": 548.6,
+      "mission_time": 41.226,
+      "altitude": 10214.6,
+      "speed": 555.9,
       "pitch": 89.9
     },
     {
-      "mission_time": 39.514,
-      "altitude": 9308.5,
-      "speed": 550.2,
+      "mission_time": 41.305,
+      "altitude": 10259.1,
+      "speed": 557.7,
       "pitch": 89.9
     },
     {
-      "mission_time": 39.59,
-      "altitude": 9339.8,
-      "speed": 551.3,
+      "mission_time": 41.382,
+      "altitude": 10292.6,
+      "speed": 559.0,
       "pitch": 89.9
     },
     {
-      "mission_time": 39.652,
-      "altitude": 9371.2,
-      "speed": 552.5,
+      "mission_time": 41.444,
+      "altitude": 10337.5,
+      "speed": 560.8,
       "pitch": 89.9
     },
     {
-      "mission_time": 39.713,
-      "altitude": 9402.7,
-      "speed": 553.6,
+      "mission_time": 41.521,
+      "altitude": 10371.2,
+      "speed": 562.1,
       "pitch": 89.9
     },
     {
-      "mission_time": 39.774,
-      "altitude": 9434.3,
-      "speed": 554.8,
+      "mission_time": 41.583,
+      "altitude": 10416.2,
+      "speed": 563.9,
       "pitch": 89.9
     },
     {
-      "mission_time": 39.836,
-      "altitude": 9465.9,
-      "speed": 556.0,
+      "mission_time": 41.662,
+      "altitude": 10450.1,
+      "speed": 565.3,
       "pitch": 89.9
     },
     {
-      "mission_time": 39.9,
-      "altitude": 9508.3,
-      "speed": 557.6,
+      "mission_time": 41.723,
+      "altitude": 10484.1,
+      "speed": 566.6,
       "pitch": 89.9
     },
     {
-      "mission_time": 39.977,
-      "altitude": 9550.7,
-      "speed": 559.2,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 40.054,
-      "altitude": 9582.6,
-      "speed": 560.4,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 40.114,
-      "altitude": 9625.3,
-      "speed": 562.0,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 40.191,
-      "altitude": 9657.4,
-      "speed": 563.2,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 40.252,
-      "altitude": 9689.6,
-      "speed": 564.4,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 40.315,
-      "altitude": 9732.6,
-      "speed": 566.0,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 40.391,
-      "altitude": 9764.9,
-      "speed": 567.2,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 40.453,
-      "altitude": 9797.3,
+      "mission_time": 41.786,
+      "altitude": 10529.5,
       "speed": 568.4,
       "pitch": 89.9
     },
     {
-      "mission_time": 40.514,
-      "altitude": 9829.8,
-      "speed": 569.6,
+      "mission_time": 41.865,
+      "altitude": 10575.1,
+      "speed": 570.2,
       "pitch": 89.9
     },
     {
-      "mission_time": 40.575,
-      "altitude": 9862.4,
-      "speed": 570.9,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 40.637,
-      "altitude": 9895.1,
+      "mission_time": 41.941,
+      "altitude": 10620.8,
       "speed": 572.1,
       "pitch": 89.9
     },
     {
-      "mission_time": 40.697,
-      "altitude": 9938.7,
-      "speed": 573.7,
+      "mission_time": 42.018,
+      "altitude": 10655.2,
+      "speed": 573.4,
       "pitch": 89.9
     },
     {
-      "mission_time": 40.775,
-      "altitude": 9982.6,
-      "speed": 575.4,
+      "mission_time": 42.08,
+      "altitude": 10689.6,
+      "speed": 574.8,
       "pitch": 89.9
     },
     {
-      "mission_time": 40.852,
-      "altitude": 10015.5,
-      "speed": 576.6,
+      "mission_time": 42.141,
+      "altitude": 10724.2,
+      "speed": 576.2,
       "pitch": 89.9
     },
     {
-      "mission_time": 40.913,
-      "altitude": 10059.5,
-      "speed": 578.3,
+      "mission_time": 42.203,
+      "altitude": 10770.4,
+      "speed": 578.0,
       "pitch": 89.9
     },
     {
-      "mission_time": 40.989,
-      "altitude": 10092.7,
-      "speed": 579.6,
+      "mission_time": 42.28,
+      "altitude": 10805.1,
+      "speed": 579.4,
       "pitch": 89.9
     },
     {
-      "mission_time": 41.051,
-      "altitude": 10125.9,
+      "mission_time": 42.341,
+      "altitude": 10840.0,
       "speed": 580.8,
       "pitch": 89.9
     },
     {
-      "mission_time": 41.113,
-      "altitude": 10170.3,
-      "speed": 582.5,
+      "mission_time": 42.403,
+      "altitude": 10886.5,
+      "speed": 582.7,
       "pitch": 89.9
     },
     {
-      "mission_time": 41.19,
-      "altitude": 10203.7,
-      "speed": 583.8,
+      "mission_time": 42.482,
+      "altitude": 10921.5,
+      "speed": 584.1,
       "pitch": 89.9
     },
     {
-      "mission_time": 41.253,
-      "altitude": 10237.1,
-      "speed": 585.0,
+      "mission_time": 42.545,
+      "altitude": 10956.6,
+      "speed": 585.5,
       "pitch": 89.9
     },
     {
-      "mission_time": 41.315,
-      "altitude": 10281.9,
-      "speed": 586.7,
+      "mission_time": 42.607,
+      "altitude": 11003.6,
+      "speed": 587.4,
       "pitch": 89.9
     },
     {
-      "mission_time": 41.394,
-      "altitude": 10315.6,
-      "speed": 588.0,
+      "mission_time": 42.687,
+      "altitude": 11050.7,
+      "speed": 589.2,
       "pitch": 89.9
     },
     {
-      "mission_time": 41.457,
-      "altitude": 10360.6,
-      "speed": 589.7,
+      "mission_time": 42.764,
+      "altitude": 11086.1,
+      "speed": 590.7,
       "pitch": 89.9
     },
     {
-      "mission_time": 41.536,
-      "altitude": 10394.4,
-      "speed": 591.0,
+      "mission_time": 42.825,
+      "altitude": 11133.4,
+      "speed": 592.5,
       "pitch": 89.9
     },
     {
-      "mission_time": 41.597,
-      "altitude": 10439.7,
-      "speed": 592.7,
+      "mission_time": 42.903,
+      "altitude": 11180.9,
+      "speed": 594.4,
       "pitch": 89.9
     },
     {
-      "mission_time": 41.675,
-      "altitude": 10473.7,
-      "speed": 594.0,
+      "mission_time": 42.981,
+      "altitude": 11216.7,
+      "speed": 595.9,
       "pitch": 89.9
     },
     {
-      "mission_time": 41.735,
-      "altitude": 10507.8,
-      "speed": 595.3,
+      "mission_time": 43.044,
+      "altitude": 11252.5,
+      "speed": 597.3,
       "pitch": 89.9
     },
     {
-      "mission_time": 41.796,
-      "altitude": 10553.5,
-      "speed": 597.1,
+      "mission_time": 43.106,
+      "altitude": 11300.4,
+      "speed": 599.2,
       "pitch": 89.9
     },
     {
-      "mission_time": 41.874,
-      "altitude": 10587.8,
-      "speed": 598.4,
+      "mission_time": 43.184,
+      "altitude": 11348.4,
+      "speed": 601.1,
       "pitch": 89.9
     },
     {
-      "mission_time": 41.935,
-      "altitude": 10622.2,
-      "speed": 599.7,
+      "mission_time": 43.264,
+      "altitude": 11396.6,
+      "speed": 603.0,
       "pitch": 89.9
     },
     {
-      "mission_time": 41.998,
-      "altitude": 10668.2,
-      "speed": 601.5,
+      "mission_time": 43.341,
+      "altitude": 11432.8,
+      "speed": 604.5,
       "pitch": 89.9
     },
     {
-      "mission_time": 42.073,
-      "altitude": 10702.7,
-      "speed": 602.8,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 42.135,
-      "altitude": 10749.0,
-      "speed": 604.6,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 42.212,
-      "altitude": 10783.8,
+      "mission_time": 43.403,
+      "altitude": 11469.2,
       "speed": 605.9,
       "pitch": 89.9
     },
     {
-      "mission_time": 42.274,
-      "altitude": 10818.6,
-      "speed": 607.2,
+      "mission_time": 43.466,
+      "altitude": 11517.7,
+      "speed": 607.9,
       "pitch": 89.9
     },
     {
-      "mission_time": 42.336,
-      "altitude": 10865.3,
-      "speed": 609.0,
+      "mission_time": 43.544,
+      "altitude": 11566.5,
+      "speed": 609.8,
       "pitch": 89.9
     },
     {
-      "mission_time": 42.415,
-      "altitude": 10912.0,
-      "speed": 610.8,
+      "mission_time": 43.621,
+      "altitude": 11603.1,
+      "speed": 611.3,
       "pitch": 89.9
     },
     {
-      "mission_time": 42.494,
-      "altitude": 10947.2,
-      "speed": 612.1,
+      "mission_time": 43.682,
+      "altitude": 11639.9,
+      "speed": 612.7,
       "pitch": 89.9
     },
     {
-      "mission_time": 42.556,
-      "altitude": 10994.2,
-      "speed": 614.0,
+      "mission_time": 43.745,
+      "altitude": 11676.7,
+      "speed": 614.2,
       "pitch": 89.9
     },
     {
-      "mission_time": 42.632,
-      "altitude": 11029.6,
-      "speed": 615.3,
+      "mission_time": 43.806,
+      "altitude": 11725.9,
+      "speed": 616.2,
       "pitch": 89.9
     },
     {
-      "mission_time": 42.695,
-      "altitude": 11065.1,
-      "speed": 616.7,
+      "mission_time": 43.884,
+      "altitude": 11775.3,
+      "speed": 618.1,
       "pitch": 89.9
     },
     {
-      "mission_time": 42.756,
-      "altitude": 11112.5,
-      "speed": 618.5,
+      "mission_time": 43.961,
+      "altitude": 11812.5,
+      "speed": 619.6,
       "pitch": 89.9
     },
     {
-      "mission_time": 42.832,
-      "altitude": 11148.1,
-      "speed": 619.8,
+      "mission_time": 44.022,
+      "altitude": 11849.7,
+      "speed": 621.1,
       "pitch": 89.9
     },
     {
-      "mission_time": 42.893,
-      "altitude": 11183.9,
-      "speed": 621.2,
+      "mission_time": 44.086,
+      "altitude": 11899.5,
+      "speed": 623.1,
       "pitch": 89.9
     },
     {
-      "mission_time": 42.956,
-      "altitude": 11231.6,
-      "speed": 623.0,
+      "mission_time": 44.164,
+      "altitude": 11949.5,
+      "speed": 625.1,
       "pitch": 89.9
     },
     {
-      "mission_time": 43.032,
-      "altitude": 11267.6,
-      "speed": 624.4,
+      "mission_time": 44.241,
+      "altitude": 11987.0,
+      "speed": 626.6,
       "pitch": 89.9
     },
     {
-      "mission_time": 43.094,
-      "altitude": 11303.6,
-      "speed": 625.8,
+      "mission_time": 44.302,
+      "altitude": 12037.3,
+      "speed": 628.6,
       "pitch": 89.9
     },
     {
-      "mission_time": 43.157,
-      "altitude": 11351.8,
-      "speed": 627.7,
+      "mission_time": 44.379,
+      "altitude": 12075.0,
+      "speed": 630.1,
       "pitch": 89.9
     },
     {
-      "mission_time": 43.236,
-      "altitude": 11388.0,
-      "speed": 629.0,
+      "mission_time": 44.44,
+      "altitude": 12112.9,
+      "speed": 631.6,
       "pitch": 89.9
     },
     {
-      "mission_time": 43.297,
-      "altitude": 11436.5,
-      "speed": 630.9,
+      "mission_time": 44.503,
+      "altitude": 12163.5,
+      "speed": 633.6,
       "pitch": 89.9
     },
     {
-      "mission_time": 43.375,
-      "altitude": 11472.9,
-      "speed": 632.3,
+      "mission_time": 44.58,
+      "altitude": 12201.6,
+      "speed": 635.1,
       "pitch": 89.9
     },
     {
-      "mission_time": 43.436,
-      "altitude": 11509.4,
-      "speed": 633.7,
+      "mission_time": 44.642,
+      "altitude": 12239.8,
+      "speed": 636.6,
       "pitch": 89.9
     },
     {
-      "mission_time": 43.499,
-      "altitude": 11558.3,
-      "speed": 635.6,
+      "mission_time": 44.706,
+      "altitude": 12290.8,
+      "speed": 638.7,
       "pitch": 89.9
     },
     {
-      "mission_time": 43.577,
-      "altitude": 11607.2,
-      "speed": 637.4,
+      "mission_time": 44.783,
+      "altitude": 12329.2,
+      "speed": 640.2,
       "pitch": 89.9
     },
     {
-      "mission_time": 43.655,
-      "altitude": 11656.4,
-      "speed": 639.3,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 43.732,
-      "altitude": 11693.3,
-      "speed": 640.7,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 43.794,
-      "altitude": 11730.4,
+      "mission_time": 44.844,
+      "altitude": 12380.5,
       "speed": 642.2,
       "pitch": 89.9
     },
     {
-      "mission_time": 43.857,
-      "altitude": 11779.9,
-      "speed": 644.0,
+      "mission_time": 44.922,
+      "altitude": 12419.1,
+      "speed": 643.8,
       "pitch": 89.9
     },
     {
-      "mission_time": 43.935,
-      "altitude": 11817.2,
-      "speed": 645.5,
+      "mission_time": 44.983,
+      "altitude": 12457.8,
+      "speed": 645.3,
       "pitch": 89.9
     },
     {
-      "mission_time": 43.998,
-      "altitude": 11867.0,
+      "mission_time": 45.045,
+      "altitude": 12509.5,
       "speed": 647.4,
       "pitch": 89.9
     },
     {
-      "mission_time": 44.075,
-      "altitude": 11904.5,
-      "speed": 648.8,
+      "mission_time": 45.124,
+      "altitude": 12561.4,
+      "speed": 649.4,
       "pitch": 89.9
     },
     {
-      "mission_time": 44.136,
-      "altitude": 11954.6,
-      "speed": 650.7,
+      "mission_time": 45.202,
+      "altitude": 12600.5,
+      "speed": 651.0,
       "pitch": 89.9
     },
     {
-      "mission_time": 44.214,
-      "altitude": 12004.8,
-      "speed": 652.7,
+      "mission_time": 45.264,
+      "altitude": 12639.6,
+      "speed": 652.5,
       "pitch": 89.9
     },
     {
-      "mission_time": 44.291,
-      "altitude": 12042.6,
-      "speed": 654.1,
+      "mission_time": 45.326,
+      "altitude": 12691.9,
+      "speed": 654.6,
       "pitch": 89.9
     },
     {
-      "mission_time": 44.353,
-      "altitude": 12080.5,
-      "speed": 655.6,
+      "mission_time": 45.403,
+      "altitude": 12744.4,
+      "speed": 656.7,
       "pitch": 89.9
     },
     {
-      "mission_time": 44.415,
-      "altitude": 12131.1,
-      "speed": 657.5,
+      "mission_time": 45.479,
+      "altitude": 12783.9,
+      "speed": 658.3,
       "pitch": 89.9
     },
     {
-      "mission_time": 44.491,
-      "altitude": 12169.2,
-      "speed": 659.0,
+      "mission_time": 45.542,
+      "altitude": 12823.4,
+      "speed": 659.9,
       "pitch": 89.9
     },
     {
-      "mission_time": 44.553,
-      "altitude": 12207.4,
-      "speed": 660.4,
+      "mission_time": 45.603,
+      "altitude": 12863.1,
+      "speed": 661.4,
       "pitch": 89.9
     },
     {
-      "mission_time": 44.615,
-      "altitude": 12258.5,
-      "speed": 662.4,
+      "mission_time": 45.666,
+      "altitude": 12916.1,
+      "speed": 663.5,
       "pitch": 89.9
     },
     {
-      "mission_time": 44.692,
-      "altitude": 12296.9,
-      "speed": 663.9,
+      "mission_time": 45.744,
+      "altitude": 12969.3,
+      "speed": 665.7,
       "pitch": 89.9
     },
     {
-      "mission_time": 44.754,
-      "altitude": 12335.4,
-      "speed": 665.3,
+      "mission_time": 45.822,
+      "altitude": 13022.7,
+      "speed": 667.8,
       "pitch": 89.9
     },
     {
-      "mission_time": 44.816,
-      "altitude": 12386.8,
-      "speed": 667.3,
+      "mission_time": 45.9,
+      "altitude": 13062.8,
+      "speed": 669.4,
       "pitch": 89.9
     },
     {
-      "mission_time": 44.893,
-      "altitude": 12425.6,
-      "speed": 668.8,
+      "mission_time": 45.962,
+      "altitude": 13116.5,
+      "speed": 671.5,
       "pitch": 89.9
     },
     {
-      "mission_time": 44.955,
-      "altitude": 12464.4,
-      "speed": 670.3,
+      "mission_time": 46.04,
+      "altitude": 13156.8,
+      "speed": 673.1,
       "pitch": 89.9
     },
     {
-      "mission_time": 45.018,
-      "altitude": 12516.2,
-      "speed": 672.3,
+      "mission_time": 46.102,
+      "altitude": 13197.3,
+      "speed": 674.8,
       "pitch": 89.9
     },
     {
-      "mission_time": 45.094,
-      "altitude": 12555.3,
-      "speed": 673.8,
+      "mission_time": 46.164,
+      "altitude": 13251.4,
+      "speed": 676.9,
       "pitch": 89.9
     },
     {
-      "mission_time": 45.156,
-      "altitude": 12607.4,
-      "speed": 675.8,
+      "mission_time": 46.242,
+      "altitude": 13305.6,
+      "speed": 679.1,
       "pitch": 89.9
     },
     {
-      "mission_time": 45.232,
-      "altitude": 12646.7,
-      "speed": 677.3,
+      "mission_time": 46.322,
+      "altitude": 13346.4,
+      "speed": 680.7,
       "pitch": 89.9
     },
     {
-      "mission_time": 45.294,
-      "altitude": 12686.0,
-      "speed": 678.8,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 45.355,
-      "altitude": 12738.6,
-      "speed": 680.8,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 45.433,
-      "altitude": 12778.1,
+      "mission_time": 46.382,
+      "altitude": 13387.4,
       "speed": 682.4,
       "pitch": 89.9
     },
     {
-      "mission_time": 45.495,
-      "altitude": 12831.0,
-      "speed": 684.4,
+      "mission_time": 46.444,
+      "altitude": 13442.1,
+      "speed": 684.5,
       "pitch": 89.9
     },
     {
-      "mission_time": 45.574,
-      "altitude": 12870.8,
-      "speed": 685.9,
+      "mission_time": 46.521,
+      "altitude": 13483.2,
+      "speed": 686.2,
       "pitch": 89.9
     },
     {
-      "mission_time": 45.635,
-      "altitude": 12910.6,
-      "speed": 687.5,
+      "mission_time": 46.581,
+      "altitude": 13524.4,
+      "speed": 687.8,
       "pitch": 89.9
     },
     {
-      "mission_time": 45.697,
-      "altitude": 12964.0,
-      "speed": 689.5,
+      "mission_time": 46.645,
+      "altitude": 13579.6,
+      "speed": 690.0,
       "pitch": 89.9
     },
     {
-      "mission_time": 45.775,
-      "altitude": 13017.4,
-      "speed": 691.6,
+      "mission_time": 46.721,
+      "altitude": 13621.1,
+      "speed": 691.7,
       "pitch": 89.9
     },
     {
-      "mission_time": 45.854,
-      "altitude": 13057.6,
-      "speed": 693.1,
+      "mission_time": 46.783,
+      "altitude": 13662.6,
+      "speed": 693.4,
       "pitch": 89.9
     },
     {
-      "mission_time": 45.917,
-      "altitude": 13111.4,
-      "speed": 695.2,
+      "mission_time": 46.845,
+      "altitude": 13718.2,
+      "speed": 695.6,
       "pitch": 89.9
     },
     {
-      "mission_time": 45.994,
-      "altitude": 13151.9,
-      "speed": 696.8,
+      "mission_time": 46.922,
+      "altitude": 13760.0,
+      "speed": 697.3,
       "pitch": 89.9
     },
     {
-      "mission_time": 46.057,
-      "altitude": 13205.9,
-      "speed": 698.8,
+      "mission_time": 46.983,
+      "altitude": 13815.9,
+      "speed": 699.5,
       "pitch": 89.9
     },
     {
-      "mission_time": 46.134,
-      "altitude": 13246.6,
-      "speed": 700.4,
+      "mission_time": 47.06,
+      "altitude": 13858.0,
+      "speed": 701.2,
       "pitch": 89.9
     },
     {
-      "mission_time": 46.195,
-      "altitude": 13287.4,
-      "speed": 702.0,
+      "mission_time": 47.121,
+      "altitude": 13900.1,
+      "speed": 702.9,
       "pitch": 89.9
     },
     {
-      "mission_time": 46.257,
-      "altitude": 13341.9,
-      "speed": 704.1,
+      "mission_time": 47.183,
+      "altitude": 13942.3,
+      "speed": 704.6,
       "pitch": 89.9
     },
     {
-      "mission_time": 46.336,
-      "altitude": 13396.6,
-      "speed": 706.2,
+      "mission_time": 47.247,
+      "altitude": 13998.8,
+      "speed": 706.8,
       "pitch": 89.9
     },
     {
-      "mission_time": 46.413,
-      "altitude": 13451.4,
-      "speed": 708.3,
+      "mission_time": 47.325,
+      "altitude": 14055.5,
+      "speed": 709.1,
       "pitch": 89.9
     },
     {
-      "mission_time": 46.493,
-      "altitude": 13492.7,
-      "speed": 709.9,
+      "mission_time": 47.402,
+      "altitude": 14112.3,
+      "speed": 711.4,
       "pitch": 89.9
     },
     {
-      "mission_time": 46.555,
-      "altitude": 13547.9,
-      "speed": 712.1,
+      "mission_time": 47.479,
+      "altitude": 14155.1,
+      "speed": 713.1,
       "pitch": 89.9
     },
     {
-      "mission_time": 46.635,
-      "altitude": 13589.3,
-      "speed": 713.7,
+      "mission_time": 47.542,
+      "altitude": 14198.0,
+      "speed": 714.8,
       "pitch": 89.9
     },
     {
-      "mission_time": 46.698,
-      "altitude": 13644.8,
-      "speed": 715.8,
+      "mission_time": 47.603,
+      "altitude": 14255.3,
+      "speed": 717.1,
       "pitch": 89.9
     },
     {
-      "mission_time": 46.776,
-      "altitude": 13686.5,
-      "speed": 717.4,
+      "mission_time": 47.681,
+      "altitude": 14298.4,
+      "speed": 718.9,
       "pitch": 89.9
     },
     {
-      "mission_time": 46.837,
-      "altitude": 13742.3,
-      "speed": 719.6,
+      "mission_time": 47.744,
+      "altitude": 14356.0,
+      "speed": 721.2,
       "pitch": 89.9
     },
     {
-      "mission_time": 46.915,
-      "altitude": 13798.3,
-      "speed": 721.8,
+      "mission_time": 47.822,
+      "altitude": 14384.9,
+      "speed": 722.3,
       "pitch": 89.9
     },
     {
-      "mission_time": 46.993,
-      "altitude": 13840.4,
-      "speed": 723.4,
+      "mission_time": 47.885,
+      "altitude": 14457.3,
+      "speed": 725.3,
       "pitch": 89.9
     },
     {
-      "mission_time": 47.054,
-      "altitude": 13882.6,
-      "speed": 725.0,
+      "mission_time": 47.963,
+      "altitude": 14515.4,
+      "speed": 727.6,
       "pitch": 89.9
     },
     {
-      "mission_time": 47.117,
-      "altitude": 13939.0,
-      "speed": 727.2,
+      "mission_time": 48.043,
+      "altitude": 14559.2,
+      "speed": 729.4,
       "pitch": 89.9
     },
     {
-      "mission_time": 47.194,
-      "altitude": 13981.4,
-      "speed": 728.9,
+      "mission_time": 48.105,
+      "altitude": 14617.6,
+      "speed": 731.7,
       "pitch": 89.9
     },
     {
-      "mission_time": 47.255,
-      "altitude": 14038.2,
-      "speed": 731.1,
+      "mission_time": 48.181,
+      "altitude": 14661.6,
+      "speed": 733.5,
       "pitch": 89.9
     },
     {
-      "mission_time": 47.333,
-      "altitude": 14080.8,
-      "speed": 732.8,
+      "mission_time": 48.242,
+      "altitude": 14705.7,
+      "speed": 735.3,
       "pitch": 89.9
     },
     {
-      "mission_time": 47.396,
-      "altitude": 14137.9,
-      "speed": 735.0,
+      "mission_time": 48.304,
+      "altitude": 14749.9,
+      "speed": 737.0,
       "pitch": 89.9
     },
     {
-      "mission_time": 47.472,
-      "altitude": 14180.8,
-      "speed": 736.7,
-      "pitch": 89.9
+      "mission_time": 48.365,
+      "altitude": 14794.2,
+      "speed": 738.8,
+      "pitch": 90.0
     },
     {
-      "mission_time": 47.533,
-      "altitude": 14223.8,
-      "speed": 738.3,
-      "pitch": 89.9
+      "mission_time": 48.427,
+      "altitude": 14853.4,
+      "speed": 741.2,
+      "pitch": 90.0
     },
     {
-      "mission_time": 47.597,
-      "altitude": 14281.3,
-      "speed": 740.6,
-      "pitch": 89.9
+      "mission_time": 48.504,
+      "altitude": 14912.8,
+      "speed": 743.6,
+      "pitch": 90.0
     },
     {
-      "mission_time": 47.676,
-      "altitude": 14324.6,
-      "speed": 742.3,
-      "pitch": 89.9
+      "mission_time": 48.584,
+      "altitude": 14957.5,
+      "speed": 745.4,
+      "pitch": 90.0
     },
     {
-      "mission_time": 47.738,
-      "altitude": 14382.4,
-      "speed": 744.5,
-      "pitch": 89.9
+      "mission_time": 48.646,
+      "altitude": 15017.3,
+      "speed": 747.8,
+      "pitch": 90.0
     },
     {
-      "mission_time": 47.816,
-      "altitude": 14440.5,
-      "speed": 746.8,
-      "pitch": 89.9
+      "mission_time": 48.722,
+      "altitude": 15062.2,
+      "speed": 749.6,
+      "pitch": 90.0
     },
     {
-      "mission_time": 47.893,
-      "altitude": 14484.1,
-      "speed": 748.5,
-      "pitch": 89.9
+      "mission_time": 48.784,
+      "altitude": 15107.3,
+      "speed": 751.5,
+      "pitch": 90.0
     },
     {
-      "mission_time": 47.956,
-      "altitude": 14542.5,
-      "speed": 750.8,
-      "pitch": 89.9
+      "mission_time": 48.848,
+      "altitude": 15152.5,
+      "speed": 753.3,
+      "pitch": 90.0
     },
     {
-      "mission_time": 48.033,
-      "altitude": 14601.0,
-      "speed": 753.1,
-      "pitch": 89.9
+      "mission_time": 48.912,
+      "altitude": 15212.9,
+      "speed": 755.7,
+      "pitch": 90.0
     },
     {
-      "mission_time": 48.109,
-      "altitude": 14645.0,
-      "speed": 754.8,
-      "pitch": 89.9
+      "mission_time": 48.99,
+      "altitude": 15273.4,
+      "speed": 758.2,
+      "pitch": 90.0
     },
     {
-      "mission_time": 48.17,
-      "altitude": 14689.2,
-      "speed": 756.5,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 48.233,
-      "altitude": 14748.2,
-      "speed": 758.8,
-      "pitch": 89.9
-    },
-    {
-      "mission_time": 48.311,
-      "altitude": 14792.6,
+      "mission_time": 49.068,
+      "altitude": 15334.2,
       "speed": 760.6,
       "pitch": 89.9
     },
     {
-      "mission_time": 48.372,
-      "altitude": 14837.1,
-      "speed": 762.3,
+      "mission_time": 49.145,
+      "altitude": 15395.2,
+      "speed": 763.1,
       "pitch": 89.9
     },
     {
-      "mission_time": 48.434,
-      "altitude": 14896.6,
-      "speed": 764.6,
+      "mission_time": 49.222,
+      "altitude": 15441.1,
+      "speed": 764.9,
       "pitch": 89.9
     },
     {
-      "mission_time": 48.51,
-      "altitude": 14941.3,
-      "speed": 766.4,
+      "mission_time": 49.285,
+      "altitude": 15487.0,
+      "speed": 766.8,
       "pitch": 89.9
     },
     {
-      "mission_time": 48.573,
-      "altitude": 14986.2,
-      "speed": 768.1,
+      "mission_time": 49.346,
+      "altitude": 15548.5,
+      "speed": 769.2,
       "pitch": 89.8
     },
     {
-      "mission_time": 48.636,
-      "altitude": 15031.1,
-      "speed": 769.9,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 48.699,
-      "altitude": 15091.3,
-      "speed": 772.3,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 48.776,
-      "altitude": 15136.5,
-      "speed": 774.0,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 48.837,
-      "altitude": 15181.8,
-      "speed": 775.8,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 48.9,
-      "altitude": 15242.4,
-      "speed": 778.2,
-      "pitch": 89.8
-    },
-    {
-      "mission_time": 48.976,
-      "altitude": 15303.2,
-      "speed": 780.6,
-      "pitch": 89.7
-    },
-    {
-      "mission_time": 49.053,
-      "altitude": 15348.9,
-      "speed": 782.4,
-      "pitch": 89.7
-    },
-    {
-      "mission_time": 49.114,
-      "altitude": 15410.1,
-      "speed": 784.7,
-      "pitch": 89.7
-    },
-    {
-      "mission_time": 49.192,
-      "altitude": 15456.1,
-      "speed": 786.5,
-      "pitch": 89.7
-    },
-    {
-      "mission_time": 49.255,
-      "altitude": 15502.2,
-      "speed": 788.3,
-      "pitch": 89.7
-    },
-    {
-      "mission_time": 49.316,
-      "altitude": 15563.8,
-      "speed": 790.8,
-      "pitch": 89.6
-    },
-    {
-      "mission_time": 49.393,
+      "mission_time": 49.424,
       "altitude": 15610.2,
-      "speed": 792.6,
+      "speed": 771.7,
+      "pitch": 89.8
+    },
+    {
+      "mission_time": 49.501,
+      "altitude": 15656.5,
+      "speed": 773.6,
+      "pitch": 89.8
+    },
+    {
+      "mission_time": 49.562,
+      "altitude": 15703.0,
+      "speed": 775.4,
+      "pitch": 89.8
+    },
+    {
+      "mission_time": 49.625,
+      "altitude": 15749.6,
+      "speed": 777.3,
+      "pitch": 89.8
+    },
+    {
+      "mission_time": 49.686,
+      "altitude": 15812.0,
+      "speed": 779.8,
+      "pitch": 89.7
+    },
+    {
+      "mission_time": 49.764,
+      "altitude": 15858.8,
+      "speed": 781.7,
+      "pitch": 89.7
+    },
+    {
+      "mission_time": 49.827,
+      "altitude": 15921.5,
+      "speed": 784.2,
+      "pitch": 89.7
+    },
+    {
+      "mission_time": 49.905,
+      "altitude": 15984.4,
+      "speed": 786.7,
+      "pitch": 89.7
+    },
+    {
+      "mission_time": 49.982,
+      "altitude": 16031.6,
+      "speed": 788.6,
       "pitch": 89.6
     },
     {
-      "mission_time": 49.455,
-      "altitude": 15672.1,
+      "mission_time": 50.042,
+      "altitude": 16079.0,
+      "speed": 790.5,
+      "pitch": 89.6
+    },
+    {
+      "mission_time": 50.103,
+      "altitude": 16142.4,
+      "speed": 793.1,
+      "pitch": 89.6
+    },
+    {
+      "mission_time": 50.181,
+      "altitude": 16190.1,
       "speed": 795.0,
       "pitch": 89.6
     },
     {
-      "mission_time": 49.533,
-      "altitude": 15718.8,
-      "speed": 796.8,
-      "pitch": 89.6
-    },
-    {
-      "mission_time": 49.595,
-      "altitude": 15765.5,
-      "speed": 798.6,
+      "mission_time": 50.242,
+      "altitude": 16237.9,
+      "speed": 796.9,
       "pitch": 89.5
     },
     {
-      "mission_time": 49.656,
-      "altitude": 15828.0,
-      "speed": 801.1,
+      "mission_time": 50.304,
+      "altitude": 16301.7,
+      "speed": 799.4,
       "pitch": 89.5
     },
     {
-      "mission_time": 49.734,
-      "altitude": 15890.7,
-      "speed": 803.5,
+      "mission_time": 50.381,
+      "altitude": 16349.8,
+      "speed": 801.4,
       "pitch": 89.5
     },
     {
-      "mission_time": 49.812,
-      "altitude": 15937.8,
-      "speed": 805.4,
+      "mission_time": 50.443,
+      "altitude": 16398.0,
+      "speed": 803.3,
       "pitch": 89.5
     },
     {
-      "mission_time": 49.874,
-      "altitude": 15985.0,
-      "speed": 807.2,
+      "mission_time": 50.506,
+      "altitude": 16462.4,
+      "speed": 805.9,
       "pitch": 89.4
     },
     {
-      "mission_time": 49.938,
-      "altitude": 16048.2,
-      "speed": 809.7,
+      "mission_time": 50.584,
+      "altitude": 16510.8,
+      "speed": 807.8,
       "pitch": 89.4
     },
     {
-      "mission_time": 50.014,
-      "altitude": 16111.6,
-      "speed": 812.2,
+      "mission_time": 50.646,
+      "altitude": 16575.6,
+      "speed": 810.4,
       "pitch": 89.4
     },
     {
-      "mission_time": 50.092,
-      "altitude": 16159.3,
-      "speed": 814.0,
+      "mission_time": 50.724,
+      "altitude": 16624.3,
+      "speed": 812.3,
       "pitch": 89.4
     },
     {
-      "mission_time": 50.154,
-      "altitude": 16223.0,
+      "mission_time": 50.788,
+      "altitude": 16689.4,
+      "speed": 814.9,
+      "pitch": 89.4
+    },
+    {
+      "mission_time": 50.865,
+      "altitude": 16738.4,
+      "speed": 816.9,
+      "pitch": 89.3
+    },
+    {
+      "mission_time": 50.928,
+      "altitude": 16803.8,
+      "speed": 818.6,
+      "pitch": 89.3
+    },
+    {
+      "mission_time": 51.005,
+      "altitude": 16869.3,
+      "speed": 817.4,
+      "pitch": 89.3
+    },
+    {
+      "mission_time": 51.082,
+      "altitude": 16918.3,
       "speed": 816.5,
       "pitch": 89.3
     },
     {
-      "mission_time": 50.234,
-      "altitude": 16271.0,
-      "speed": 818.4,
+      "mission_time": 51.144,
+      "altitude": 16967.2,
+      "speed": 815.6,
       "pitch": 89.3
     },
     {
-      "mission_time": 50.296,
-      "altitude": 16335.1,
-      "speed": 820.9,
-      "pitch": 89.3
-    },
-    {
-      "mission_time": 50.373,
-      "altitude": 16383.3,
-      "speed": 822.8,
-      "pitch": 89.3
-    },
-    {
-      "mission_time": 50.435,
-      "altitude": 16431.6,
-      "speed": 824.7,
+      "mission_time": 51.205,
+      "altitude": 17016.1,
+      "speed": 814.7,
       "pitch": 89.2
     },
     {
-      "mission_time": 50.496,
-      "altitude": 16496.2,
-      "speed": 827.2,
+      "mission_time": 51.205,
+      "altitude": 17016.1,
+      "speed": 814.7,
       "pitch": 89.2
-    },
-    {
-      "mission_time": 50.573,
-      "altitude": 16544.8,
-      "speed": 829.1,
-      "pitch": 89.2
-    },
-    {
-      "mission_time": 50.634,
-      "altitude": 16593.5,
-      "speed": 831.0,
-      "pitch": 89.2
-    },
-    {
-      "mission_time": 50.696,
-      "altitude": 16658.7,
-      "speed": 833.5,
-      "pitch": 89.2
-    },
-    {
-      "mission_time": 50.774,
-      "altitude": 16707.6,
-      "speed": 835.4,
-      "pitch": 89.1
-    },
-    {
-      "mission_time": 50.836,
-      "altitude": 16773.1,
-      "speed": 838.0,
-      "pitch": 89.1
-    },
-    {
-      "mission_time": 50.914,
-      "altitude": 16838.8,
-      "speed": 840.6,
-      "pitch": 89.1
-    },
-    {
-      "mission_time": 50.992,
-      "altitude": 16888.1,
-      "speed": 839.7,
-      "pitch": 89.1
-    },
-    {
-      "mission_time": 51.055,
-      "altitude": 16953.8,
-      "speed": 838.6,
-      "pitch": 89.0
-    },
-    {
-      "mission_time": 51.131,
-      "altitude": 17002.9,
-      "speed": 837.7,
-      "pitch": 89.0
-    },
-    {
-      "mission_time": 53.01,
-      "altitude": 18539.5,
-      "speed": 834.3,
-      "pitch": 83.5
-    },
-    {
-      "mission_time": 53.09,
-      "altitude": 18604.8,
-      "speed": 835.2,
-      "pitch": 83.3
-    },
-    {
-      "mission_time": 53.168,
-      "altitude": 18670.1,
-      "speed": 836.2,
-      "pitch": 83.1
-    },
-    {
-      "mission_time": 53.245,
-      "altitude": 18719.2,
-      "speed": 836.9,
-      "pitch": 83.0
     },
     {
       "mission_time": 53.306,
